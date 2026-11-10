@@ -1,0 +1,8002 @@
+[
+  {
+    "category": "画像所見・形態",
+    "reading": "しゅりゅう",
+    "word": "腫瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けっせつ",
+    "word": "結節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しょうけっせつ",
+    "word": "小結節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しゅりゅうえい",
+    "word": "腫瘤影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けっせつえい",
+    "word": "結節影",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しんじゅんえい",
+    "word": "浸潤影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "すりがらすいんえい",
+    "word": "すりガラス陰影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "すりがらすえい",
+    "word": "すりガラス影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "もうじょうえい",
+    "word": "網状影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "さくじょうえい",
+    "word": "索状影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "せんじょうえい",
+    "word": "線状影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "りゅうじょうえい",
+    "word": "粒状影",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ほうそうはい",
+    "word": "蜂巣肺",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうほう",
+    "word": "嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうほうせいびょうへん",
+    "word": "嚢胞性病変",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "じゅうじつせいしゅりゅう",
+    "word": "充実性腫瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "じゅうじつせいびょうへん",
+    "word": "充実性病変",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "せっかいか",
+    "word": "石灰化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "そだいせっかいか",
+    "word": "粗大石灰化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "びさいせっかいか",
+    "word": "微細石灰化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こつか",
+    "word": "骨化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "えし",
+    "word": "壊死",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しゅっけつ",
+    "word": "出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けっしゅ",
+    "word": "血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ふしゅ",
+    "word": "浮腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうよう",
+    "word": "膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ろうこう",
+    "word": "瘻孔",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けいしつ",
+    "word": "憩室",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょうさく",
+    "word": "狭窄",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へいそく",
+    "word": "閉塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "かくちょう",
+    "word": "拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "だこう",
+    "word": "蛇行",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "とぜつ",
+    "word": "途絶",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "あっぱい",
+    "word": "圧排",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しんじゅん",
+    "word": "浸潤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ゆちゃく",
+    "word": "癒着",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へきひこう",
+    "word": "壁肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しゅだい",
+    "word": "腫大",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "いしゅく",
+    "word": "萎縮",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ひこう",
+    "word": "肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こうか",
+    "word": "硬化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "せんいか",
+    "word": "線維化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しぼうへんせい",
+    "word": "脂肪変性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しぼうしんじゅん",
+    "word": "脂肪浸潤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "えきめんけいせい",
+    "word": "液面形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょうめんぞう",
+    "word": "鏡面像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へんえんふせい",
+    "word": "辺縁不整",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょうかいめいりょう",
+    "word": "境界明瞭",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょうかいふめいりょう",
+    "word": "境界不明瞭",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぶんようじょう",
+    "word": "分葉状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "たぼうせい",
+    "word": "多房性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "たんぼうせい",
+    "word": "単房性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "にゅうとうじょう",
+    "word": "乳頭状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けっせつじょう",
+    "word": "結節状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "びまんせい",
+    "word": "びまん性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "げんきょくせい",
+    "word": "限局性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "たはつせい",
+    "word": "多発性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "さんざいせい",
+    "word": "散在性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ひまく",
+    "word": "被膜",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "かくへき",
+    "word": "隔壁",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "じゅうじつせいぶん",
+    "word": "充実成分",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうほうせいぶん",
+    "word": "嚢胞成分",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へきざいけっせつ",
+    "word": "壁在結節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けっせい",
+    "word": "血性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しょうえきせい",
+    "word": "漿液性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ねんえきせい",
+    "word": "粘液性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうせい",
+    "word": "膿性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぞうえいざい",
+    "word": "造影剤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぞうえいこうか",
+    "word": "造影効果",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぞうえいぞうきょうこうか",
+    "word": "造影増強効果",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぞうえいふりょう",
+    "word": "造影不良",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "そうきのうせん",
+    "word": "早期濃染",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ちえんせいのうせん",
+    "word": "遅延性濃染",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "どうみゃくそう",
+    "word": "動脈相",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "もんみゃくそう",
+    "word": "門脈相",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "へいこうそう",
+    "word": "平衡相",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かんさいぼうそう",
+    "word": "肝細胞相",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かくさんきょうちょうがぞう",
+    "word": "拡散強調画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かくさんせいげん",
+    "word": "拡散制限",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうしんごう",
+    "word": "高信号",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ていしんごう",
+    "word": "低信号",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "とうしんごう",
+    "word": "等信号",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうきゅうしゅう",
+    "word": "高吸収",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ていきゅうしゅう",
+    "word": "低吸収",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "とうきゅうしゅう",
+    "word": "等吸収",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうのうど",
+    "word": "高濃度",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ていのうど",
+    "word": "低濃度",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "じかりつ",
+    "word": "磁化率",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "しぼうよくせい",
+    "word": "脂肪抑制",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かがくしふと",
+    "word": "化学シフト",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぶぶんようせきこうか",
+    "word": "部分容積効果",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "けっかんぞうえい",
+    "word": "血管造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ちょうおんぱけんさ",
+    "word": "超音波検査",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "けいひけいかんたんどうぞうえい",
+    "word": "経皮経肝胆道造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぎゃっこうせいじんうぞうえい",
+    "word": "逆行性腎盂造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "はいせつせいにょうろぞうえい",
+    "word": "排泄性尿路造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいけっせつ",
+    "word": "肺結節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいしゅりゅう",
+    "word": "肺腫瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいがん",
+    "word": "肺癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいせんがん",
+    "word": "肺腺癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "へんぺいじょうひがん",
+    "word": "扁平上皮癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "しょうさいぼうがん",
+    "word": "小細胞癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいてんい",
+    "word": "肺転移",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "てんいせいはいしゅよう",
+    "word": "転移性肺腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいえん",
+    "word": "肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ごえんせいはいえん",
+    "word": "誤嚥性肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きしつかはいえん",
+    "word": "器質化肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "かんしつせいはいえん",
+    "word": "間質性肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ひとくいせいかんしつせいはいえん",
+    "word": "非特異性間質性肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "とくはつせいはいせんいしょう",
+    "word": "特発性肺線維症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "かびんせいはいえん",
+    "word": "過敏性肺炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "こうさんきゅうせいはいえん",
+    "word": "好酸球性肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいのうよう",
+    "word": "肺膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいけっかく",
+    "word": "肺結核",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ひけっかくせいこうさんきんしょう",
+    "word": "非結核性抗酸菌症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいあすぺるぎるすしょう",
+    "word": "肺アスペルギルス症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいくりぷとこっかすしょう",
+    "word": "肺クリプトコッカス症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいきしゅ",
+    "word": "肺気腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きしゅせいのうほう",
+    "word": "気腫性嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きかんしかくちょうしょう",
+    "word": "気管支拡張症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "けんいんせいきかんしかくちょう",
+    "word": "牽引性気管支拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "さいきかんしえん",
+    "word": "細気管支炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ねんえきせん",
+    "word": "粘液栓",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "むきはい",
+    "word": "無気肺",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいすいしゅ",
+    "word": "肺水腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいほうしゅっけつ",
+    "word": "肺胞出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいざしょう",
+    "word": "肺挫傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいそくせんしょう",
+    "word": "肺塞栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいけっせんそくせんしょう",
+    "word": "肺血栓塞栓症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいこうそく",
+    "word": "肺梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうすい",
+    "word": "胸水",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "けっきょう",
+    "word": "血胸",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ききょう",
+    "word": "気胸",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "のうきょう",
+    "word": "膿胸",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうまくひこう",
+    "word": "胸膜肥厚",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうまくぷらーく",
+    "word": "胸膜プラーク",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうまくちゅうひしゅ",
+    "word": "胸膜中皮腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "じゅうかくしゅよう",
+    "word": "縦隔腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうせんしゅ",
+    "word": "胸腺腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうせんのうほう",
+    "word": "胸腺嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうせんかけいせい",
+    "word": "胸腺過形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きかんしのうほう",
+    "word": "気管支嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "しんまくのうほう",
+    "word": "心膜嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "しんけいしょうしゅ",
+    "word": "神経鞘腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "じゅうかくきしゅ",
+    "word": "縦隔気腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ひかきしゅ",
+    "word": "皮下気腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいどうじょうみゃくろう",
+    "word": "肺動静脈瘻",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんさいぼうがん",
+    "word": "肝細胞癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんないたんかんがん",
+    "word": "肝内胆管癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "てんいせいかんがん",
+    "word": "転移性肝癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "てんいせいかんしゅよう",
+    "word": "転移性肝腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんけっかんしゅ",
+    "word": "肝血管腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんのうほう",
+    "word": "肝嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんのうよう",
+    "word": "肝膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんこうへん",
+    "word": "肝硬変",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "しぼうかん",
+    "word": "脂肪肝",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "げんきょくせいしぼうかん",
+    "word": "限局性脂肪肝",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "げんきょくせいけっせつせいかけいせい",
+    "word": "限局性結節性過形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんさいぼうせんしゅ",
+    "word": "肝細胞腺腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "さいせいけっせつ",
+    "word": "再生結節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんないけっせき",
+    "word": "肝内結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "もんみゃくけっせんしょう",
+    "word": "門脈血栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "もんみゃくあつこうしんしょう",
+    "word": "門脈圧亢進症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひしゅ",
+    "word": "脾腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひこうそく",
+    "word": "脾梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひそんしょう",
+    "word": "脾損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひどうみゃくりゅう",
+    "word": "脾動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ふくひ",
+    "word": "副脾",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうけっせき",
+    "word": "胆嚢結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんせきしょう",
+    "word": "胆石症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "そうたんかんけっせき",
+    "word": "総胆管結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんかんけっせき",
+    "word": "胆管結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうえん",
+    "word": "胆嚢炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "きゅうせいたんのうえん",
+    "word": "急性胆嚢炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "きしゅせいたんのうえん",
+    "word": "気腫性胆嚢炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんかんえん",
+    "word": "胆管炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうせんきんしゅしょう",
+    "word": "胆嚢腺筋腫症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうぽりーぷ",
+    "word": "胆嚢ポリープ",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうがん",
+    "word": "胆嚢癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんかんがん",
+    "word": "胆管癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんもんぶたんかんがん",
+    "word": "肝門部胆管癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんかんかくちょう",
+    "word": "胆管拡張",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいがん",
+    "word": "膵癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいかんがん",
+    "word": "膵管癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいしんけいないぶんぴしゅよう",
+    "word": "膵神経内分泌腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいかんないにゅうとうねんえきせいしゅよう",
+    "word": "膵管内乳頭粘液性腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ねんえきせいのうほうしゅよう",
+    "word": "粘液性嚢胞腫瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "しょうえきせいのうほうせんしゅ",
+    "word": "漿液性嚢胞腺腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "きゅうせいすいえん",
+    "word": "急性膵炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "まんせいすいえん",
+    "word": "慢性膵炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "じこめんえきせいすいえん",
+    "word": "自己免疫性膵炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "えしせいすいえん",
+    "word": "壊死性膵炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいかせいのうほう",
+    "word": "膵仮性嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいのうほう",
+    "word": "膵嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいせき",
+    "word": "膵石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "しゅすいかん",
+    "word": "主膵管",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいかんかくちょう",
+    "word": "膵管拡張",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいかんゆごうふぜん",
+    "word": "膵管癒合不全",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "しょくどうがん",
+    "word": "食道癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "しょくどうじょうみゃくりゅう",
+    "word": "食道静脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "いじょうみゃくりゅう",
+    "word": "胃静脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "いがん",
+    "word": "胃癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "いねんまくかしゅよう",
+    "word": "胃粘膜下腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "しょうかかんかんしつしゅよう",
+    "word": "消化管間質腫瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "いじゅうにしちょうかいよう",
+    "word": "胃十二指腸潰瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "じゅうにしちょうけいしつ",
+    "word": "十二指腸憩室",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "だいちょうがん",
+    "word": "大腸癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょくちょうがん",
+    "word": "直腸癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちゅうすいえん",
+    "word": "虫垂炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "きゅうせいちゅうすいえん",
+    "word": "急性虫垂炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちゅうすいねんえきのうしゅ",
+    "word": "虫垂粘液嚢腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "けいしつえん",
+    "word": "憩室炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうへいそく",
+    "word": "腸閉塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "こうやくせいいれうす",
+    "word": "絞扼性イレウス",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "まひせいいれうす",
+    "word": "麻痺性イレウス",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうじゅうせき",
+    "word": "腸重積",
+    "pos": "名詞",
+    "origin": "DMiME・読み修正",
+    "original_reading": "ちようじゅうせき"
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうじくねんてん",
+    "word": "腸軸捻転",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "きょけつせいちょうえん",
+    "word": "虚血性腸炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "かいようせいだいちょうえん",
+    "word": "潰瘍性大腸炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "くろーんびょう",
+    "word": "クローン病",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんきしゅしょう",
+    "word": "腸管気腫症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんまくしぼうしきえん",
+    "word": "腸間膜脂肪織炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくまくえん",
+    "word": "腹膜炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくまくはしゅ",
+    "word": "腹膜播種",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくすい",
+    "word": "腹水",
+    "pos": "名詞",
+    "origin": "DMiME・読み修正",
+    "original_reading": "ふくすいしょう"
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "けっせいふくすい",
+    "word": "血性腹水",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくくうないのうよう",
+    "word": "腹腔内膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "こつばんないのうよう",
+    "word": "骨盤内膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "おうかくまくかのうよう",
+    "word": "横隔膜下膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうようきんのうよう",
+    "word": "腸腰筋膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "こうふくまくせんいしょう",
+    "word": "後腹膜線維症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "こうふくまくけっしゅ",
+    "word": "後腹膜血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "そけいへるにあ",
+    "word": "鼠径ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "だいたいへるにあ",
+    "word": "大腿ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "へいさこうへるにあ",
+    "word": "閉鎖孔ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "しょくどうれっこうへるにあ",
+    "word": "食道裂孔ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "さいへるにあ",
+    "word": "臍ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくへきはんこんへるにあ",
+    "word": "腹壁瘢痕ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんさいぼうがん",
+    "word": "腎細胞癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんうがん",
+    "word": "腎盂癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんのうほう",
+    "word": "腎嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんけっかんきんしぼうしゅ",
+    "word": "腎血管筋脂肪腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんこうそく",
+    "word": "腎梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんのうよう",
+    "word": "腎膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんうじんえん",
+    "word": "腎盂腎炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "きしゅせいじんうじんえん",
+    "word": "気腫性腎盂腎炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "すいじんしょう",
+    "word": "水腎症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんけっせき",
+    "word": "腎結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうかんけっせき",
+    "word": "尿管結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぼうこうけっせき",
+    "word": "膀胱結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうろけっせき",
+    "word": "尿路結石",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうかんがん",
+    "word": "尿管癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぼうこうがん",
+    "word": "膀胱癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぜんりつせんがん",
+    "word": "前立腺癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぜんりつせんひだいしょう",
+    "word": "前立腺肥大症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "せいのう",
+    "word": "精嚢",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ふくじんせんしゅ",
+    "word": "副腎腺腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ふくじんひしつせんしゅ",
+    "word": "副腎皮質腺腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ふくじんこつずいしぼうしゅ",
+    "word": "副腎骨髄脂肪腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "かっしょくさいぼうしゅ",
+    "word": "褐色細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ふくじんしゅっけつ",
+    "word": "副腎出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ふくじんてんい",
+    "word": "副腎転移",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ふくじんひしつがん",
+    "word": "副腎皮質癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぼうしんけいせつしゅ",
+    "word": "傍神経節腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ばていじん",
+    "word": "馬蹄腎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じゅうふくじんうにょうかん",
+    "word": "重複腎盂尿管",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうまくかんいざん",
+    "word": "尿膜管遺残",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうきんしゅ",
+    "word": "子宮筋腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうせんきんしょう",
+    "word": "子宮腺筋症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうけいがん",
+    "word": "子宮頸癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうたいがん",
+    "word": "子宮体癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうないまくがん",
+    "word": "子宮内膜癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうないまくしょう",
+    "word": "子宮内膜症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうのうしゅ",
+    "word": "卵巣嚢腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうがん",
+    "word": "卵巣癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "せいじゅくのうほうせいきけいしゅ",
+    "word": "成熟嚢胞性奇形腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうしきゅうないまくしょうせいのうほう",
+    "word": "卵巣子宮内膜症性嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうしゅよう",
+    "word": "卵巣腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "ふぞくきしゅりゅう",
+    "word": "付属器腫瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうけいねんてん",
+    "word": "卵巣茎捻転",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんかんりゅうすいしゅ",
+    "word": "卵管留水腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんかんりゅうのうしゅ",
+    "word": "卵管留膿腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "こつばんないえんしょうせいしっかん",
+    "word": "骨盤内炎症性疾患",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうがん",
+    "word": "乳癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうせんせんいせんしゅ",
+    "word": "乳腺線維腺腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうせんのうほう",
+    "word": "乳腺嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうせんしょう",
+    "word": "乳腺症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうかんないにゅうとうしゅ",
+    "word": "乳管内乳頭腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "ひしんじゅんせいにゅうかんがん",
+    "word": "非浸潤性乳管癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しんじゅんせいにゅうかんがん",
+    "word": "浸潤性乳管癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "えきかりんぱせつ",
+    "word": "腋窩リンパ節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうこうそく",
+    "word": "脳梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "きゅうせいきのうこうそく",
+    "word": "急性期脳梗塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ちんきゅうせいのうこうそく",
+    "word": "陳旧性脳梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "らくなこうそく",
+    "word": "ラクナ梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ぶんすいれいこうそく",
+    "word": "分水嶺梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうしゅっけつ",
+    "word": "脳出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ひかくしゅっけつ",
+    "word": "被殻出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ししょうしゅっけつ",
+    "word": "視床出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しょうのうしゅっけつ",
+    "word": "小脳出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "くもまくかしゅっけつ",
+    "word": "くも膜下出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうまくかけっしゅ",
+    "word": "硬膜下血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "まんせいこうまくかけっしゅ",
+    "word": "慢性硬膜下血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "きゅうせいこうまくがいけっしゅ",
+    "word": "急性硬膜外血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうざしょう",
+    "word": "脳挫傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "びまんせいじくさくそんしょう",
+    "word": "びまん性軸索損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうのうよう",
+    "word": "脳膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ずいまくえん",
+    "word": "髄膜炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうえん",
+    "word": "脳炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "すいとうしょう",
+    "word": "水頭症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "せいじょうあつすいとうしょう",
+    "word": "正常圧水頭症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうどうみゃくりゅう",
+    "word": "脳動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうどうじょうみゃくきけい",
+    "word": "脳動静脈奇形",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうまくどうじょうみゃくろう",
+    "word": "硬膜動静脈瘻",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "かいめんじょうけっかんしゅ",
+    "word": "海綿状血管腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ずいまくしゅ",
+    "word": "髄膜腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しんけいこうしゅ",
+    "word": "神経膠腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうがしゅ",
+    "word": "膠芽腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "てんいせいのうしゅよう",
+    "word": "転移性脳腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "かすいたいせんしゅ",
+    "word": "下垂体腺腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ちょうしんけいしゅよう",
+    "word": "聴神経腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ぜんていしんけいしょうしゅ",
+    "word": "前庭神経鞘腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "だつずい",
+    "word": "脱髄",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "たはつせいこうかしょう",
+    "word": "多発性硬化症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ししんけいせきずいえん",
+    "word": "視神経脊髄炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "はくしつびょうへん",
+    "word": "白質病変",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうふしゅ",
+    "word": "脳浮腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ふくびくうえん",
+    "word": "副鼻腔炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "じょうがくどう",
+    "word": "上顎洞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しこつどう",
+    "word": "篩骨洞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ちょうけいこつどう",
+    "word": "蝶形骨洞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "にゅうとつほうそう",
+    "word": "乳突蜂巣",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "じかせんしゅよう",
+    "word": "耳下腺腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "たけいせんしゅ",
+    "word": "多形腺腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "がくかせん",
+    "word": "顎下腺",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうじょうせんしゅよう",
+    "word": "甲状腺腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうじょうせんにゅうとうがん",
+    "word": "甲状腺乳頭癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "いんごのうよう",
+    "word": "咽後膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "へんとうしゅういのうよう",
+    "word": "扁桃周囲膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こっせつ",
+    "word": "骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ふぜんこっせつ",
+    "word": "不全骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ひろうこっせつ",
+    "word": "疲労骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "あっぱくこっせつ",
+    "word": "圧迫骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "はれつこっせつ",
+    "word": "破裂骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "はくりこっせつ",
+    "word": "剥離骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ぜいじゃくせいこっせつ",
+    "word": "脆弱性骨折",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "びょうてきこっせつ",
+    "word": "病的骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ぎかんせつ",
+    "word": "偽関節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつざしょう",
+    "word": "骨挫傷",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつずいふしゅ",
+    "word": "骨髄浮腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつえし",
+    "word": "骨壊死",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "だいたいこっとうえし",
+    "word": "大腿骨頭壊死",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつずいえん",
+    "word": "骨髄炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かのうせいせきついえん",
+    "word": "化膿性脊椎炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ついかんばんえん",
+    "word": "椎間板炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こうまくがいのうよう",
+    "word": "硬膜外膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ついかんばんへるにあ",
+    "word": "椎間板ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せきちゅうかんきょうさくしょう",
+    "word": "脊柱管狭窄症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こうじゅうじんたいこつかしょう",
+    "word": "後縦靱帯骨化症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "おうしょくじんたいこつかしょう",
+    "word": "黄色靱帯骨化症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せきずいしょう",
+    "word": "脊髄症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せきずいくうどうしょう",
+    "word": "脊髄空洞症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつてんい",
+    "word": "骨転移",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "てんいせいこつしゅよう",
+    "word": "転移性骨腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつずいしゅ",
+    "word": "骨髄腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "たはつせいこつずいしゅ",
+    "word": "多発性骨髄腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつにくしゅ",
+    "word": "骨肉腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "なんこつにくしゅ",
+    "word": "軟骨肉腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ないなんこつしゅ",
+    "word": "内軟骨腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつなんこつしゅ",
+    "word": "骨軟骨腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつきょさいぼうしゅ",
+    "word": "骨巨細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "しぼうしゅ",
+    "word": "脂肪腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "しぼうにくしゅ",
+    "word": "脂肪肉腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かつまくにくしゅ",
+    "word": "滑膜肉腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "がんぐりおん",
+    "word": "ガングリオン",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かつえきほうえん",
+    "word": "滑液包炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "けんしょうえん",
+    "word": "腱鞘炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "けんばんだんれつ",
+    "word": "腱板断裂",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "はんげつばんそんしょう",
+    "word": "半月板損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ぜんじゅうじじんたいそんしょう",
+    "word": "前十字靱帯損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かんせつりうまち",
+    "word": "関節リウマチ",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かのうせいかんせつえん",
+    "word": "化膿性関節炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "へんけいせいかんせつしょう",
+    "word": "変形性関節症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せんちょうかんせつえん",
+    "word": "仙腸関節炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ほうかしきえん",
+    "word": "蜂窩織炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "えしせいきんまくえん",
+    "word": "壊死性筋膜炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "だいどうみゃくりゅう",
+    "word": "大動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "きょうぶだいどうみゃくりゅう",
+    "word": "胸部大動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ふくぶだいどうみゃくりゅう",
+    "word": "腹部大動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "だいどうみゃくかいり",
+    "word": "大動脈解離",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "きゅうせいだいどうみゃくかいり",
+    "word": "急性大動脈解離",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かいりせいだいどうみゃくりゅう",
+    "word": "解離性大動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かせいどうみゃくりゅう",
+    "word": "仮性動脈瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんせいどうみゃくりゅう",
+    "word": "真性動脈瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かんせんせいどうみゃくりゅう",
+    "word": "感染性動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "へきざいけっせん",
+    "word": "壁在血栓",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "けっせん",
+    "word": "血栓",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "けっせんしょう",
+    "word": "血栓症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "そくせんしょう",
+    "word": "塞栓症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんぶじょうみゃくけっせんしょう",
+    "word": "深部静脈血栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "どうみゃくこうか",
+    "word": "動脈硬化",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "へいそくせいどうみゃくこうかしょう",
+    "word": "閉塞性動脈硬化症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "まっしょうどうみゃくしっかん",
+    "word": "末梢動脈疾患",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "どうじょうみゃくろう",
+    "word": "動静脈瘻",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "どうじょうみゃくきけい",
+    "word": "動静脈奇形",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "じょうみゃくきけい",
+    "word": "静脈奇形",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "りんぱかんきけい",
+    "word": "リンパ管奇形",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "そくふくけっこうろ",
+    "word": "側副血行路",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "さいかいつう",
+    "word": "再開通",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ないまくひこう",
+    "word": "内膜肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんのうえき",
+    "word": "心嚢液",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんきんこうそく",
+    "word": "心筋梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんきんえん",
+    "word": "心筋炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんあみろいどーしす",
+    "word": "心アミロイドーシス",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんさるこいどーしす",
+    "word": "心サルコイドーシス",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ひだいがたしんきんしょう",
+    "word": "肥大型心筋症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かくちょうがたしんきんしょう",
+    "word": "拡張型心筋症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんまくえん",
+    "word": "心膜炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しゅうしゅくせいしんまくえん",
+    "word": "収縮性心膜炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひてき",
+    "word": "経皮的",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいじょうみゃくてき",
+    "word": "経静脈的",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいどうみゃくてき",
+    "word": "経動脈的",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひけいかん",
+    "word": "経皮経肝",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せんし",
+    "word": "穿刺",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せいけん",
+    "word": "生検",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "はりせいけん",
+    "word": "針生検",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひてきはりせいけん",
+    "word": "経皮的針生検",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "きゅういんさいぼうしん",
+    "word": "吸引細胞診",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "どれなーじ",
+    "word": "ドレナージ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "のうようどれなーじ",
+    "word": "膿瘍ドレナージ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひけいかんたんどうどれなーじ",
+    "word": "経皮経肝胆道ドレナージ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひけいかんたんのうどれなーじ",
+    "word": "経皮経肝胆嚢ドレナージ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "じんろう",
+    "word": "腎瘻",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "じんろうぞうせつじゅつ",
+    "word": "腎瘻造設術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "いろう",
+    "word": "胃瘻",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "そくせんじゅつ",
+    "word": "塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "どうみゃくそくせんじゅつ",
+    "word": "動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっかんそくせんじゅつ",
+    "word": "血管塞栓術",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かんどうみゃくそくせんじゅつ",
+    "word": "肝動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かんどうみゃくかがくそくせんりょうほう",
+    "word": "肝動脈化学塞栓療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かがくそくせんりょうほう",
+    "word": "化学塞栓療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ばるーんへいそくかぎゃっこうせいけいじょうみゃくてきそくせんじゅつ",
+    "word": "バルーン閉塞下逆行性経静脈的塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっかんけいせいじゅつ",
+    "word": "血管形成術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひてきけっかんけいせいじゅつ",
+    "word": "経皮的血管形成術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "すてんとりゅうちじゅつ",
+    "word": "ステント留置術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "すてんとぐらふと",
+    "word": "ステントグラフト",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっせんようかいりょうほう",
+    "word": "血栓溶解療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっせんじょきょじゅつ",
+    "word": "血栓除去術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "らじおはしょうしゃくじゅつ",
+    "word": "ラジオ波焼灼術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "とうけつりょうほう",
+    "word": "凍結療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ちゅうしんじょうみゃくかてーてる",
+    "word": "中心静脈カテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ちゅうしんじょうみゃくぽーと",
+    "word": "中心静脈ポート",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かてーてる",
+    "word": "カテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "まいくろかてーてる",
+    "word": "マイクロカテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "がいどわいやー",
+    "word": "ガイドワイヤー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "しーす",
+    "word": "シース",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "そくせんぶっしつ",
+    "word": "塞栓物質",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ぞうえいざいじんしょう",
+    "word": "造影剤腎症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ぞうえいざいあれるぎー",
+    "word": "造影剤アレルギー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっかんがいろうしゅつ",
+    "word": "血管外漏出",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっかんれんしゅく",
+    "word": "血管攣縮",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せんしぶけっしゅ",
+    "word": "穿刺部血腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かせいりゅう",
+    "word": "仮性瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "しけつ",
+    "word": "止血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "あっぱくしけつ",
+    "word": "圧迫止血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "こうぎょうこりょうほう",
+    "word": "抗凝固療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "こうけっしょうばんりょうほう",
+    "word": "抗血小板療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "あくせいりんぱしゅ",
+    "word": "悪性リンパ腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "りんぱせつしゅだい",
+    "word": "リンパ節腫大",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "りんぱせつてんい",
+    "word": "リンパ節転移",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "はんのうせいりんぱせつしゅだい",
+    "word": "反応性リンパ節腫大",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ふくくうどうみゃく",
+    "word": "腹腔動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じょうちょうかんまくどうみゃく",
+    "word": "上腸間膜動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かちょうかんまくどうみゃく",
+    "word": "下腸間膜動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そうかんどうみゃく",
+    "word": "総肝動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こゆうかんどうみゃく",
+    "word": "固有肝動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "いじゅうにしちょうどうみゃく",
+    "word": "胃十二指腸動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じょうちょうかんまくじょうみゃく",
+    "word": "上腸間膜静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かちょうかんまくじょうみゃく",
+    "word": "下腸間膜静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひじょうみゃく",
+    "word": "脾静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "もんみゃく",
+    "word": "門脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんじょうみゃく",
+    "word": "肝静脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かだいじょうみゃく",
+    "word": "下大静脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ないちょうこつどうみゃく",
+    "word": "内腸骨動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "がいちょうこつどうみゃく",
+    "word": "外腸骨動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そうちょうこつどうみゃく",
+    "word": "総腸骨動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "だいたいどうみゃく",
+    "word": "大腿動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "しっかどうみゃく",
+    "word": "膝窩動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちょうようきん",
+    "word": "腸腰筋",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちょうかんまく",
+    "word": "腸間膜",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "たいもう",
+    "word": "大網",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "しょうもう",
+    "word": "小網",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんじゅうにしちょうかんまく",
+    "word": "肝十二指腸間膜",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぞうだい",
+    "word": "増大",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しゅくしょう",
+    "word": "縮小",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しょうたい",
+    "word": "消退",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しんしゅつ",
+    "word": "新出",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぞうあく",
+    "word": "増悪",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へんざい",
+    "word": "偏在",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へんしんせい",
+    "word": "偏心性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぜんしゅうせい",
+    "word": "全周性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ふきんいつ",
+    "word": "不均一",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きんいつ",
+    "word": "均一",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ないぶふきんいつ",
+    "word": "内部不均一",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へんえんへいかつ",
+    "word": "辺縁平滑",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "へんえんせい",
+    "word": "辺縁整",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ふせいけい",
+    "word": "不整形",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょくじょうとっき",
+    "word": "棘状突起",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けばだち",
+    "word": "毛羽立ち",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょうまくかんにゅう",
+    "word": "胸膜陥入",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "きょうまくせっしょく",
+    "word": "胸膜接触",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぶんよう",
+    "word": "分葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぶんかく",
+    "word": "分隔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "たけっせつじょう",
+    "word": "多結節状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "かいじょう",
+    "word": "塊状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "はんじょう",
+    "word": "斑状",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けつじょう",
+    "word": "楔状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "たいじょう",
+    "word": "帯状",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ちずじょう",
+    "word": "地図状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "かんじょう",
+    "word": "環状",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "りんじょう",
+    "word": "輪状",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "けっせつせい",
+    "word": "結節性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "にゅうとうじょうりゅうき",
+    "word": "乳頭状隆起",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうせん",
+    "word": "濃染",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうどじょうしょう",
+    "word": "濃度上昇",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "のうどていか",
+    "word": "濃度低下",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しぼうのうど",
+    "word": "脂肪濃度",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "なんぶのうど",
+    "word": "軟部濃度",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "えきたいのうど",
+    "word": "液体濃度",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "がんき",
+    "word": "含気",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "がんきていか",
+    "word": "含気低下",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "がんきしょうしつ",
+    "word": "含気消失",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "えきたいちょりゅう",
+    "word": "液体貯留",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "がすちょりゅう",
+    "word": "ガス貯留",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "しゅういしぼうしきのうどじょうしょう",
+    "word": "周囲脂肪織濃度上昇",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "なんぶそしき",
+    "word": "軟部組織",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こつひしつ",
+    "word": "骨皮質",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こつりょう",
+    "word": "骨梁",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こつこうか",
+    "word": "骨硬化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こつゆうかい",
+    "word": "骨融解",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "こつまくはんのう",
+    "word": "骨膜反応",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ぞうこつせい",
+    "word": "造骨性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "画像所見・形態",
+    "reading": "ようこつせい",
+    "word": "溶骨性",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ただんめんさいこうせい",
+    "word": "多断面再構成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "さいだいちとうえいほう",
+    "word": "最大値投影法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "さいしょうちとうえいほう",
+    "word": "最小値投影法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ようせきびょうが",
+    "word": "容積描画",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "さいこうせいかんすう",
+    "word": "再構成関数",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "はくせつがぞう",
+    "word": "薄切画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かんじょうだんぞう",
+    "word": "冠状断像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "しじょうだんぞう",
+    "word": "矢状断像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "おうだんぞう",
+    "word": "横断像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "しゃいだんぞう",
+    "word": "斜位断像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "さぶとらくしょん",
+    "word": "サブトラクション",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こきゅうどうき",
+    "word": "呼吸同期",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "しんでんずどうき",
+    "word": "心電図同期",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "はくどうあーちふぁくと",
+    "word": "拍動アーチファクト",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "きんぞくあーちふぁくと",
+    "word": "金属アーチファクト",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "もーしょんあーちふぁくと",
+    "word": "モーションアーチファクト",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "びーむはーどにんぐ",
+    "word": "ビームハードニング",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "おりかえしあーちふぁくと",
+    "word": "折り返しアーチファクト",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "いそうえんこーど",
+    "word": "位相エンコード",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "しゅうはすうえんこーど",
+    "word": "周波数エンコード",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かくさんけいすう",
+    "word": "拡散係数",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "みかけのかくさんけいすう",
+    "word": "見かけの拡散係数",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "じかりつきょうちょうがぞう",
+    "word": "磁化率強調画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かんりゅうがぞう",
+    "word": "灌流画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "かんりゅういじょう",
+    "word": "灌流異常",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぞうえいちょうおんぱ",
+    "word": "造影超音波",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "からーどぷら",
+    "word": "カラードプラ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぱわーどぷら",
+    "word": "パワードプラ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぱるすどぷら",
+    "word": "パルスドプラ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうほうえこーぞうきょう",
+    "word": "後方エコー増強",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうほうえこーげんすい",
+    "word": "後方エコー減衰",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "おんきょういんえい",
+    "word": "音響陰影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ていえこー",
+    "word": "低エコー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうえこー",
+    "word": "高エコー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "とうえこー",
+    "word": "等エコー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "むえこー",
+    "word": "無エコー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "てぃーわんきょうちょうがぞう",
+    "word": "T1強調画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "てぃーつーきょうちょうがぞう",
+    "word": "T2強調画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "ぷろとんみつどきょうちょうがぞう",
+    "word": "プロトン密度強調画像",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "撮像・検査",
+    "reading": "こうそくすぴんえこーほう",
+    "word": "高速スピンエコー法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ひしょうさいぼうはいがん",
+    "word": "非小細胞肺癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいだいさいぼうがん",
+    "word": "肺大細胞癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいかるちのいど",
+    "word": "肺カルチノイド",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいかごしゅ",
+    "word": "肺過誤腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "こうかせいはいほうじょうひしゅ",
+    "word": "硬化性肺胞上皮腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいぶんかくしょう",
+    "word": "肺分画症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいどうみゃくこうけつあつしょう",
+    "word": "肺動脈高血圧症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "まんせいけっせんそくせんせいはいこうけつあつしょう",
+    "word": "慢性血栓塞栓性肺高血圧症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいどうみゃくりゅう",
+    "word": "肺動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きかんしかくちょう",
+    "word": "気管支拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きかんしへきひこう",
+    "word": "気管支壁肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "しょうようちゅうしんせいりゅうじょうえい",
+    "word": "小葉中心性粒状影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "しょうようかんかくへきひこう",
+    "word": "小葉間隔壁肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きかんしけっかんそくひこう",
+    "word": "気管支血管束肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうまくかけっせつ",
+    "word": "胸膜下結節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうまくかもうじょうえい",
+    "word": "胸膜下網状影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "もざいくじょうきゅうしゅうち",
+    "word": "モザイク状吸収値",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "くうどうけいせい",
+    "word": "空洞形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きかんしとうりょうぞう",
+    "word": "気管支透亮像",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいようかんれつ",
+    "word": "肺葉間裂",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいせんぶきょうまくひこう",
+    "word": "肺尖部胸膜肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "えんけいむきはい",
+    "word": "円形無気肺",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "へいそくせいむきはい",
+    "word": "閉塞性無気肺",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "あっぱいせいむきはい",
+    "word": "圧排性無気肺",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいりんぱみゃくかんきんしゅしょう",
+    "word": "肺リンパ脈管筋腫症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "はいさるこいどーしす",
+    "word": "肺サルコイドーシス",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "けいはい",
+    "word": "珪肺",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "じんぱい",
+    "word": "塵肺",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "せきめんはい",
+    "word": "石綿肺",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "ほうしゃせんはいぞうえん",
+    "word": "放射線肺臓炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "にゅーもしすちすはいえん",
+    "word": "ニューモシスチス肺炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうせんがん",
+    "word": "胸腺癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "きょうせんしぼうしゅ",
+    "word": "胸腺脂肪腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "こりつせいせんいせいしゅよう",
+    "word": "孤立性線維性腫瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "胸部",
+    "reading": "おうかくまくへるにあ",
+    "word": "横隔膜ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんがしゅ",
+    "word": "肝芽腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんけっかんきんしぼうしゅ",
+    "word": "肝血管筋脂肪腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんそんしょう",
+    "word": "肝損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんこうそく",
+    "word": "肝梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんひまくかけっしゅ",
+    "word": "肝被膜下血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんどうみゃくりゅう",
+    "word": "肝動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんどうみゃくかせいどうみゃくりゅう",
+    "word": "肝動脈仮性動脈瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんないたんかんかくちょう",
+    "word": "肝内胆管拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "かんがいたんかんかくちょう",
+    "word": "肝外胆管拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんでい",
+    "word": "胆泥",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうへきひこう",
+    "word": "胆嚢壁肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんのうしゅういのうよう",
+    "word": "胆嚢周囲膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんじゅうりゅう",
+    "word": "胆汁瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんじゅうろう",
+    "word": "胆汁漏",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "たんどうしゅっけつ",
+    "word": "胆道出血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "げんぱつせいこうかせいたんかんえん",
+    "word": "原発性硬化性胆管炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "あいじーじーよんかんれんこうかせいたんかんえん",
+    "word": "IgG4関連硬化性胆管炎",
+    "pos": "名詞",
+    "origin": "DMiME・読み調整",
+    "original_reading": "IgG4かんれんこうかせいたんかんえん"
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいじゅうじつせいぎにゅうとうじょうしゅよう",
+    "word": "膵充実性偽乳頭状腫瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "いんすりのーま",
+    "word": "インスリノーマ",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "がすとりのーま",
+    "word": "ガストリノーマ",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいいしゅく",
+    "word": "膵萎縮",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "すいしゅういえきたいちょりゅう",
+    "word": "膵周囲液体貯留",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひほうかえし",
+    "word": "被包化壊死",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひのうほう",
+    "word": "脾嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "肝胆膵・脾",
+    "reading": "ひけっかんしゅ",
+    "word": "脾血管腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "しょうかかんせんこう",
+    "word": "消化管穿孔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "いせんこう",
+    "word": "胃穿孔",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "じゅうにしちょうせんこう",
+    "word": "十二指腸穿孔",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "だいちょうせんこう",
+    "word": "大腸穿孔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくくうないゆうりがす",
+    "word": "腹腔内遊離ガス",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "もんみゃくがす",
+    "word": "門脈ガス",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "じょうちょうかんまくどうみゃくへいそくしょう",
+    "word": "上腸間膜動脈閉塞症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ひへいそくせいちょうかんまくきょけつ",
+    "word": "非閉塞性腸間膜虚血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんきょけつ",
+    "word": "腸管虚血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんえし",
+    "word": "腸管壊死",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんへきひこう",
+    "word": "腸管壁肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんまくふしゅ",
+    "word": "腸間膜浮腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんまくりんぱせつえん",
+    "word": "腸間膜リンパ節炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "たいもうこうそく",
+    "word": "大網梗塞",
+    "pos": "名詞",
+    "origin": "DMiME・読み調整",
+    "original_reading": "だいもうこうそく"
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふくまくすいえん",
+    "word": "腹膜垂炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ふんごうぶきょうさく",
+    "word": "吻合部狭窄",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ほうごうふぜん",
+    "word": "縫合不全",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "じゅつごのうよう",
+    "word": "術後膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "しょうかかんろう",
+    "word": "消化管瘻",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "じろう",
+    "word": "痔瘻",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "こうもんしゅういのうよう",
+    "word": "肛門周囲膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょくちょうしゅういのうよう",
+    "word": "直腸周囲膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ちょうかんまくのうほう",
+    "word": "腸間膜嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ないへるにあ",
+    "word": "内ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "消化管・腹膜",
+    "reading": "ぼうしょくどうへるにあ",
+    "word": "傍食道ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんおんこさいとーま",
+    "word": "腎オンコサイトーマ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にゅうとうじょうじんさいぼうがん",
+    "word": "乳頭状腎細胞癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "たんめいさいぼうがたじんさいぼうがん",
+    "word": "淡明細胞型腎細胞癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "けんしきそせいじんさいぼうがん",
+    "word": "嫌色素性腎細胞癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんしゅういのうよう",
+    "word": "腎周囲膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんそんしょう",
+    "word": "腎損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんひまくかけっしゅ",
+    "word": "腎被膜下血腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんどうみゃくきょうさく",
+    "word": "腎動脈狭窄",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんどうみゃくりゅう",
+    "word": "腎動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "じんじょうみゃくけっせんしょう",
+    "word": "腎静脈血栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうりゅう",
+    "word": "尿瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうろう",
+    "word": "尿漏",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "にょうかんきょうさく",
+    "word": "尿管狭窄",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "のうじんしょう",
+    "word": "膿腎症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぼうこうけいしつ",
+    "word": "膀胱憩室",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "きしゅせいぼうこうえん",
+    "word": "気腫性膀胱炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ぜんりつせんのうよう",
+    "word": "前立腺膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "ていりゅうせいそう",
+    "word": "停留精巣",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "せいそうしゅよう",
+    "word": "精巣腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "腎・副腎・泌尿器",
+    "reading": "せいそうねんてん",
+    "word": "精巣捻転",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうないまくひこう",
+    "word": "子宮内膜肥厚",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうないまくぽりーぷ",
+    "word": "子宮内膜ポリープ",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうにくしゅ",
+    "word": "子宮肉腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しきゅうへいかつきんにくしゅ",
+    "word": "子宮平滑筋肉腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "せきしょくへんせい",
+    "word": "赤色変性",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しょうまくかきんしゅ",
+    "word": "漿膜下筋腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "ねんまくかきんしゅ",
+    "word": "粘膜下筋腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうせんいしゅ",
+    "word": "卵巣線維腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうきょうまくさいぼうしゅ",
+    "word": "卵巣莢膜細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "かりゅうまくさいぼうしゅ",
+    "word": "顆粒膜細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんそうきょうかいあくせいしゅよう",
+    "word": "卵巣境界悪性腫瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しゅっけつせいらんそうのうほう",
+    "word": "出血性卵巣嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "おうたいのうほう",
+    "word": "黄体嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんぽうのうほう",
+    "word": "卵胞嚢胞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "らんかんらんそうのうよう",
+    "word": "卵管卵巣膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうぼうのうよう",
+    "word": "乳房膿瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "ようじょうしゅよう",
+    "word": "葉状腫瘍",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "しんじゅんせいしょうようがん",
+    "word": "浸潤性小葉癌",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうせんせっかいか",
+    "word": "乳腺石灰化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨盤・乳房",
+    "reading": "にゅうかんかくちょう",
+    "word": "乳管拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "きゅうせいこうまくかけっしゅ",
+    "word": "急性硬膜下血腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうまくかすいしゅ",
+    "word": "硬膜下水腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "がいしょうせいくもまくかしゅっけつ",
+    "word": "外傷性くも膜下出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうしつないしゅっけつ",
+    "word": "脳室内出血",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しゅっけつせいこうそく",
+    "word": "出血性梗塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しんげんせいのうそくせんしょう",
+    "word": "心原性脳塞栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "あてろーむけっせんせいのうこうそく",
+    "word": "アテローム血栓性脳梗塞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ひしつかこうそく",
+    "word": "皮質下梗塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "びしょうしゅっけつ",
+    "word": "微小出血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうひょうへもじでりんちんちゃくしょう",
+    "word": "脳表ヘモジデリン沈着症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうしつかくだい",
+    "word": "脳室拡大",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうこうかいだい",
+    "word": "脳溝開大",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "せいちゅうへんい",
+    "word": "正中偏位",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうへるにあ",
+    "word": "脳ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "へんとうへるにあ",
+    "word": "扁桃ヘルニア",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうへるにあ",
+    "word": "鉤ヘルニア",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しょうのうてんと",
+    "word": "小脳テント",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "くもまくのうほう",
+    "word": "くも膜嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "しょうかたいのうほう",
+    "word": "松果体嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ころいどのうほう",
+    "word": "コロイド嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "らとけのうほう",
+    "word": "ラトケ嚢胞",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "とうがいいんとうしゅ",
+    "word": "頭蓋咽頭腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "もうようさいぼうせいせいさいぼうしゅ",
+    "word": "毛様細胞性星細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "じょういしゅ",
+    "word": "上衣腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ずいがしゅ",
+    "word": "髄芽腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ちゅうすうしんけいけいげんぱつあくせいりんぱしゅ",
+    "word": "中枢神経系原発悪性リンパ腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "はいさいぼうしゅ",
+    "word": "胚細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "はいしゅ",
+    "word": "胚腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "けっかんがしゅ",
+    "word": "血管芽腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ちゅうすうせいしんけいさいぼうしゅ",
+    "word": "中枢性神経細胞腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ちんきゅうせいのうしゅっけつ",
+    "word": "陳旧性脳出血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうりょうけっそん",
+    "word": "脳梁欠損",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "いしょせいかいはくしつ",
+    "word": "異所性灰白質",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ひしつけいせいいじょう",
+    "word": "皮質形成異常",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "かいばこうかしょう",
+    "word": "海馬硬化症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ししんけいえん",
+    "word": "視神経炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "せきずいえん",
+    "word": "脊髄炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "きゅうせいさんざいせいのうせきずいえん",
+    "word": "急性散在性脳脊髄炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "のうじょうみゃくどうけっせんしょう",
+    "word": "脳静脈洞血栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "かぎゃくせいこうとうようはくしつのうしょう",
+    "word": "可逆性後頭葉白質脳症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "けいどうみゃくかいり",
+    "word": "頸動脈解離",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "ついこつどうみゃくかいり",
+    "word": "椎骨動脈解離",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "こうとうがん",
+    "word": "喉頭癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "かいんとうがん",
+    "word": "下咽頭癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "脳・頭頸部",
+    "reading": "じょういんとうがん",
+    "word": "上咽頭癌",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ついたいけっかんしゅ",
+    "word": "椎体血管腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつとう",
+    "word": "骨島",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつのうしゅ",
+    "word": "骨嚢腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "どうみゃくりゅうようこつのうしゅ",
+    "word": "動脈瘤様骨嚢腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "たんじゅんせいこつのうしゅ",
+    "word": "単純性骨嚢腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せんいせいこついけいせい",
+    "word": "線維性骨異形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ひこつかせいせんいしゅ",
+    "word": "非骨化性線維腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "るいこつこつしゅ",
+    "word": "類骨骨腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつがさいぼうしゅ",
+    "word": "骨芽細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "なんこつがさいぼうしゅ",
+    "word": "軟骨芽細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "けんしょうきょさいぼうしゅ",
+    "word": "腱鞘巨細胞腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "けんしょうせんいしゅ",
+    "word": "腱鞘線維腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ですもいどしゅよう",
+    "word": "デスモイド腫瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "じょうみゃくせき",
+    "word": "静脈石",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せっかいちんちゃくせいけんえん",
+    "word": "石灰沈着性腱炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ぎつうふう",
+    "word": "偽痛風",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "つうふうけっせつ",
+    "word": "痛風結節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かんせつすいしゅ",
+    "word": "関節水腫",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かつまくひこう",
+    "word": "滑膜肥厚",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かつまくぞうしょく",
+    "word": "滑膜増殖",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かんせつないゆうりたい",
+    "word": "関節内遊離体",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつなんこつそんしょう",
+    "word": "骨軟骨損傷",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "りだんせいこつなんこつえん",
+    "word": "離断性骨軟骨炎",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつびらん",
+    "word": "骨びらん",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かんせつれつげききょうしょうか",
+    "word": "関節裂隙狭小化",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつきょくけいせい",
+    "word": "骨棘形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こつばんふぜんこっせつ",
+    "word": "骨盤不全骨折",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せんこつふぜんこっせつ",
+    "word": "仙骨不全骨折",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "だいたいこつけいぶこっせつ",
+    "word": "大腿骨頸部骨折",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "だいたいこつてんしぶこっせつ",
+    "word": "大腿骨転子部骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "とうこつえんいたんこっせつ",
+    "word": "橈骨遠位端骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "しゅうじょうこつこっせつ",
+    "word": "舟状骨骨折",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "かたかんせつだっきゅう",
+    "word": "肩関節脱臼",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "こかんせつだっきゅう",
+    "word": "股関節脱臼",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "きんだんれつ",
+    "word": "筋断裂",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "きんないけっしゅ",
+    "word": "筋内血腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "けんだんれつ",
+    "word": "腱断裂",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "あきれすけんだんれつ",
+    "word": "アキレス腱断裂",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "せきついすべりしょう",
+    "word": "脊椎すべり症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "骨軟部・脊椎",
+    "reading": "ぶんりすべりしょう",
+    "word": "分離すべり症",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "だいどうみゃくへきないけっしゅ",
+    "word": "大動脈壁内血腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "せんつうせいどうみゃくこうかせいかいよう",
+    "word": "穿通性動脈硬化性潰瘍",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "だいどうみゃくしゅういけっしゅ",
+    "word": "大動脈周囲血腫",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "だいどうみゃくりゅうはれつ",
+    "word": "大動脈瘤破裂",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "せっぱくはれつ",
+    "word": "切迫破裂",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ぎくう",
+    "word": "偽腔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんくう",
+    "word": "真腔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ないまくふらっぷ",
+    "word": "内膜フラップ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "けっせんへいそく",
+    "word": "血栓閉塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ぞうききょけつ",
+    "word": "臓器虚血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ちょうこつどうみゃくりゅう",
+    "word": "腸骨動脈瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ないちょうこつどうみゃくりゅう",
+    "word": "内腸骨動脈瘤",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ちょうこつどうみゃくかいり",
+    "word": "腸骨動脈解離",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "じょうちょうかんまくどうみゃくかいり",
+    "word": "上腸間膜動脈解離",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ふくくうどうみゃくかいり",
+    "word": "腹腔動脈解離",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "けっかんえん",
+    "word": "血管炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "たかやすどうみゃくえん",
+    "word": "高安動脈炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "きょさいぼうせいどうみゃくえん",
+    "word": "巨細胞性動脈炎",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "せんいきんせいいけいせい",
+    "word": "線維筋性異形成",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "ぶんせつせいどうみゃくちゅうまくゆうかい",
+    "word": "分節性動脈中膜融解",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かだいじょうみゃくけっせんしょう",
+    "word": "下大静脈血栓症",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "じょうだいじょうみゃくしょうこうぐん",
+    "word": "上大静脈症候群",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "じょうみゃくへいそく",
+    "word": "静脈閉塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "じょうみゃくきょうさく",
+    "word": "静脈狭窄",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんぼうないけっせん",
+    "word": "心房内血栓",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "さしんじけっせん",
+    "word": "左心耳血栓",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かんどうみゃくせっかいか",
+    "word": "冠動脈石灰化",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "かんどうみゃくきょうさく",
+    "word": "冠動脈狭窄",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんしつりゅう",
+    "word": "心室瘤",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "血管・心血管",
+    "reading": "しんしつちゅうかくけっそん",
+    "word": "心室中隔欠損",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せんたくてきぞうえい",
+    "word": "選択的造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ちょうせんたくてきぞうえい",
+    "word": "超選択的造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ちょうせんたくてきそくせんじゅつ",
+    "word": "超選択的塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せきにんけっかん",
+    "word": "責任血管",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "えいようけっかん",
+    "word": "栄養血管",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "しゅようのうせん",
+    "word": "腫瘍濃染",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "いじょうのうせん",
+    "word": "異常濃染",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ぞうえいざいろうしゅつ",
+    "word": "造影剤漏出",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かつどうせいしゅっけつ",
+    "word": "活動性出血",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けっかんそんしょう",
+    "word": "血管損傷",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せんつうし",
+    "word": "穿通枝",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "そくふくろ",
+    "word": "側副路",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ふんごうし",
+    "word": "吻合枝",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "りゅうにゅうどうみゃく",
+    "word": "流入動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "りゅうしゅつじょうみゃく",
+    "word": "流出静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "りゅうにゅうろ",
+    "word": "流入路",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "りゅうしゅつろ",
+    "word": "流出路",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "もんみゃくそくせんじゅつ",
+    "word": "門脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ひどうみゃくそくせんじゅつ",
+    "word": "脾動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ぶぶんてきひどうみゃくそくせんじゅつ",
+    "word": "部分的脾動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "きかんしどうみゃくそくせんじゅつ",
+    "word": "気管支動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "しきゅうどうみゃくそくせんじゅつ",
+    "word": "子宮動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "じんどうみゃくそくせんじゅつ",
+    "word": "腎動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "こつばんどうみゃくそくせんじゅつ",
+    "word": "骨盤動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ないちょうこつどうみゃくそくせんじゅつ",
+    "word": "内腸骨動脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "じょうみゃくそくせんじゅつ",
+    "word": "静脈塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "こいるそくせんじゅつ",
+    "word": "コイル塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "そくせんようこいる",
+    "word": "塞栓用コイル",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "きんぞくこいる",
+    "word": "金属コイル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ぜらちんすぽんじ",
+    "word": "ゼラチンスポンジ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "えきたいそくせんぶっしつ",
+    "word": "液体塞栓物質",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "きゅうじょうそくせんぶっしつ",
+    "word": "球状塞栓物質",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ばるーんかてーてる",
+    "word": "バルーンカテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "へいそくようばるーん",
+    "word": "閉塞用バルーン",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ばるーんかくちょう",
+    "word": "バルーン拡張",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ばるーんへいそく",
+    "word": "バルーン閉塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ばるーんへいそくしけん",
+    "word": "バルーン閉塞試験",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "まいくろがいどわいやー",
+    "word": "マイクロガイドワイヤー",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "おやかてーてる",
+    "word": "親カテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "どうじくほう",
+    "word": "同軸法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せんししん",
+    "word": "穿刺針",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せいけんしん",
+    "word": "生検針",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "こあせいけん",
+    "word": "コア生検",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "どうじくせいけん",
+    "word": "同軸生検",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひてきどれなーじ",
+    "word": "経皮的ドレナージ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいひてきのうようどれなーじ",
+    "word": "経皮的膿瘍ドレナージ",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "どれなーじかてーてる",
+    "word": "ドレナージカテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ぴっぐてーるかてーてる",
+    "word": "ピッグテールカテーテル",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かてーてるこうかん",
+    "word": "カテーテル交換",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かてーてるへいそく",
+    "word": "カテーテル閉塞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かてーてるいつだつ",
+    "word": "カテーテル逸脱",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "たんどうすてんと",
+    "word": "胆道ステント",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "たんかんすてんとりゅうちじゅつ",
+    "word": "胆管ステント留置術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "にょうかんすてんと",
+    "word": "尿管ステント",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かだいじょうみゃくふぃるたー",
+    "word": "下大静脈フィルター",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ちゅうしんじょうみゃくぽーとりゅうちじゅつ",
+    "word": "中心静脈ポート留置術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "けいけいじょうみゃくてきかんせいけん",
+    "word": "経頸静脈的肝生検",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "かんじょうみゃくあつかくさ",
+    "word": "肝静脈圧較差",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "ふくじんじょうみゃくさんぷりんぐ",
+    "word": "副腎静脈サンプリング",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "じょうみゃくさんぷりんぐ",
+    "word": "静脈サンプリング",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "せんたくてきどうみゃくないかるしうむちゅうにゅうしけん",
+    "word": "選択的動脈内カルシウム注入試験",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "こうかりょうほう",
+    "word": "硬化療法",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "りんぱかんぞうえい",
+    "word": "リンパ管造影",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "きょうかんそくせんじゅつ",
+    "word": "胸管塞栓術",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "にゅうびきょう",
+    "word": "乳糜胸",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "にゅうびふくすい",
+    "word": "乳糜腹水",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "IVR・手技",
+    "reading": "しけつでばいす",
+    "word": "止血デバイス",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "みぎじょうよう",
+    "word": "右上葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "みぎちゅうよう",
+    "word": "右中葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "みぎかよう",
+    "word": "右下葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひだりじょうよう",
+    "word": "左上葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひだりかよう",
+    "word": "左下葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜつく",
+    "word": "舌区",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "はいせんく",
+    "word": "肺尖区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんじょうようく",
+    "word": "前上葉区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こうじょうようく",
+    "word": "後上葉区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じょうぜつく",
+    "word": "上舌区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ないそくていく",
+    "word": "内側底区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんていく",
+    "word": "前底区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "がいそくていく",
+    "word": "外側底区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こうていく",
+    "word": "後底区",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "はいもん",
+    "word": "肺門",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "はいもんりんぱせつ",
+    "word": "肺門リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じゅうかくりんぱせつ",
+    "word": "縦隔リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "きかんぶんきぶ",
+    "word": "気管分岐部",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "きかんぶんきかりんぱせつ",
+    "word": "気管分岐下リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "みぎしゅきかんし",
+    "word": "右主気管支",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひだりしゅきかんし",
+    "word": "左主気管支",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちゅうかんきかんしかん",
+    "word": "中間気管支幹",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "きじょうみゃく",
+    "word": "奇静脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "はんきじょうみゃく",
+    "word": "半奇静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ないきょうどうみゃく",
+    "word": "内胸動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "きかんしどうみゃく",
+    "word": "気管支動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "おうかくどうみゃく",
+    "word": "横隔動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ろっかんどうみゃく",
+    "word": "肋間動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "さこつかどうみゃく",
+    "word": "鎖骨下動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "さこつかじょうみゃく",
+    "word": "鎖骨下静脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "びじょうよう",
+    "word": "尾状葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんさよう",
+    "word": "肝左葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんうよう",
+    "word": "肝右葉",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんないそくくいき",
+    "word": "肝内側区域",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんがいそくくいき",
+    "word": "肝外側区域",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんぜんくいき",
+    "word": "肝前区域",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんこうくいき",
+    "word": "肝後区域",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんえんさく",
+    "word": "肝円索",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんかまじょうかんまく",
+    "word": "肝鎌状間膜",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かんもんぶ",
+    "word": "肝門部",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そうたんかん",
+    "word": "総胆管",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そうかんかん",
+    "word": "総肝管",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "たんのうかん",
+    "word": "胆嚢管",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "たんのうけいぶ",
+    "word": "胆嚢頸部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "たんのうていぶ",
+    "word": "胆嚢底部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "たんのうどうみゃく",
+    "word": "胆嚢動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "みぎかんどうみゃく",
+    "word": "右肝動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひだりかんどうみゃく",
+    "word": "左肝動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちゅうかんじょうみゃく",
+    "word": "中肝静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "みぎかんじょうみゃく",
+    "word": "右肝静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひだりかんじょうみゃく",
+    "word": "左肝静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "もんみゃくほんかん",
+    "word": "門脈本幹",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "もんみゃくうし",
+    "word": "門脈右枝",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "もんみゃくさし",
+    "word": "門脈左枝",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "すいとうぶ",
+    "word": "膵頭部",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "すいたいぶ",
+    "word": "膵体部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "すいびぶ",
+    "word": "膵尾部",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "すいこうぶ",
+    "word": "膵鉤部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ふくすいかん",
+    "word": "副膵管",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ひもんぶ",
+    "word": "脾門部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんひしつ",
+    "word": "腎皮質",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんずいしつ",
+    "word": "腎髄質",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんどう",
+    "word": "腎洞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんう",
+    "word": "腎盂",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんぱい",
+    "word": "腎杯",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんもんぶ",
+    "word": "腎門部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じんしゅういくう",
+    "word": "腎周囲腔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんじんぼうくう",
+    "word": "前腎傍腔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こうじんぼうくう",
+    "word": "後腎傍腔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぼうだいどうみゃくりんぱせつ",
+    "word": "傍大動脈リンパ節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そうちょうこつりんぱせつ",
+    "word": "総腸骨リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ないちょうこつりんぱせつ",
+    "word": "内腸骨リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "がいちょうこつりんぱせつ",
+    "word": "外腸骨リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "へいさりんぱせつ",
+    "word": "閉鎖リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そけいりんぱせつ",
+    "word": "鼠径リンパ節",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぼうこうさんかくぶ",
+    "word": "膀胱三角部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぼうこうけいぶ",
+    "word": "膀胱頸部",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんりつせんへんえんいき",
+    "word": "前立腺辺縁域",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんりつせんいこういき",
+    "word": "前立腺移行域",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちょくちょうかんまく",
+    "word": "直腸間膜",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "せんこつぜんくう",
+    "word": "仙骨前腔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ざこつちょくちょうか",
+    "word": "坐骨直腸窩",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんだいのうどうみゃく",
+    "word": "前大脳動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちゅうだいのうどうみゃく",
+    "word": "中大脳動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こうだいのうどうみゃく",
+    "word": "後大脳動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ぜんこうつうどうみゃく",
+    "word": "前交通動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こうこうつうどうみゃく",
+    "word": "後交通動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ついこつどうみゃく",
+    "word": "椎骨動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "のうていどうみゃく",
+    "word": "脳底動脈",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ないけいどうみゃく",
+    "word": "内頸動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "がいけいどうみゃく",
+    "word": "外頸動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "そうけいどうみゃく",
+    "word": "総頸動脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ないけいじょうみゃく",
+    "word": "内頸静脈",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "じょうしじょうじょうみゃくどう",
+    "word": "上矢状静脈洞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "おうじょうみゃくどう",
+    "word": "横静脈洞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "えすじょうじょうみゃくどう",
+    "word": "S状静脈洞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "かいめんじょうみゃくどう",
+    "word": "海綿静脈洞",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "のうりょう",
+    "word": "脳梁",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "のうかん",
+    "word": "脳幹",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "しょうのうへんとう",
+    "word": "小脳扁桃",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ついたい",
+    "word": "椎体",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ついきゅうこん",
+    "word": "椎弓根",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ついかんこう",
+    "word": "椎間孔",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ついかんかんせつ",
+    "word": "椎間関節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "きょくとっき",
+    "word": "棘突起",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "おうとっき",
+    "word": "横突起",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "こうまくのう",
+    "word": "硬膜嚢",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ばび",
+    "word": "馬尾",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "せんちょうかんせつ",
+    "word": "仙腸関節",
+    "pos": "名詞",
+    "origin": "DMiME抽出",
+    "original_reading": ""
+  },
+  {
+    "category": "リンパ節・主要解剖",
+    "reading": "ちこつけつごう",
+    "word": "恥骨結合",
+    "pos": "名詞",
+    "origin": "補充",
+    "original_reading": ""
+  }
+]

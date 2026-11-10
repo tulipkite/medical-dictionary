@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-21",
+  "app": "macOS TextEdit",
+  "input_method": "Google Japanese Input 3.34.6260.1",
+  "history_learning": "NO_HISTORY",
+  "history_suggestions": false,
+  "incognito": false,
+  "input_method_details": "Physical keycodes via CGEvent, launched through a dedicated application; no Unicode text injection or paste",
+  "cases": [
+    {
+      "roman": "kaseiryuuwomitomemasu",
+      "observed_preedit": "かせいりゅうをみとめます",
+      "space_presses": 1,
+      "actual": "仮性瘤を認めます",
+      "segment_adjustment": false,
+      "candidate_selection": false,
+      "pass": true,
+      "screenshot": "images/02-kaseiryu-first-space.jpg",
+      "expected": "仮性瘤を認めます"
+    },
+    {
+      "roman": "tabouseinonouhouseibyouhenn",
+      "observed_preedit": "たぼうせいののうほうせいびょうへん",
+      "space_presses": 1,
+      "actual": "多房性の嚢胞性病変",
+      "segment_adjustment": false,
+      "candidate_selection": false,
+      "pass": true,
+      "screenshot": "images/04-tabousei-first-space.jpg",
+      "expected": "多房性の嚢胞性病変"
+    }
+  ],
+  "limitation": "Two actual-app examples; does not establish accuracy for arbitrary sentences",
+  "input_dictionary_sha256": "7cbce0405e5b1c244afd9db6b1ed05873470c341f5ef0dd554d810c62c43148d"
+}

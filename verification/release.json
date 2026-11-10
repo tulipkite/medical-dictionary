@@ -1,0 +1,8 @@
+{
+  "version": "2026-10-21",
+  "status": "Pre-release; GUI import and remote-reading application not validated",
+  "dictionary_rows": 1153,
+  "basic_terms": 1000,
+  "distinct_values": 1115,
+  "license": "GPL-2.0-only"
+}

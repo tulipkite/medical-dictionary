@@ -1,0 +1,8263 @@
+{
+  "recorded_on": "2026-10-21",
+  "engine": "Google Japanese Input 3.34.6260.1",
+  "platform": "macOS 26.6.2 arm64",
+  "input_dictionary_sha256": "7cbce0405e5b1c244afd9db6b1ed05873470c341f5ef0dd554d810c62c43148d",
+  "learning": "NO_HISTORY",
+  "history_suggestions": false,
+  "method": "Local converter IPC, not GUI import or real-app typing",
+  "scope": "Regression cases used during dictionary tuning; not independent general accuracy",
+  "medical_groups": {
+    "contexts": [
+      {
+        "reading": "かいじょうのびょうへん",
+        "expected": "塊状の病変",
+        "actual": "塊状の病変",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かいじょうのせっかいか",
+        "expected": "塊状の石灰化",
+        "actual": "塊状の石灰化",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かんじょうのせっかいか",
+        "expected": "環状の石灰化",
+        "actual": "環状の石灰化",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かんじょうのぞうえいこうか",
+        "expected": "環状の造影効果",
+        "actual": "環状の造影効果",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ききょうをみとめます",
+        "expected": "気胸を認めます",
+        "actual": "気胸を認めます",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "みぎききょうをうたがいます",
+        "expected": "右気胸を疑います",
+        "actual": "右気胸を疑います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "けいしつをみとめます",
+        "expected": "憩室を認めます",
+        "actual": "憩室を認めます",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "だいちょうけいしつ",
+        "expected": "大腸憩室",
+        "actual": "大腸憩室",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けつじょうのていきゅうしゅういき",
+        "expected": "楔状の低吸収域",
+        "actual": "楔状の低吸収域",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けつじょうのいんえい",
+        "expected": "楔状の陰影",
+        "actual": "楔状の陰影",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "こうかをみとめます",
+        "expected": "硬化を認めます",
+        "actual": "硬化を認めます",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "どうみゃくのこうか",
+        "expected": "動脈の硬化",
+        "actual": "動脈の硬化",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "びょうへんがしょうたいしています",
+        "expected": "病変が消退しています",
+        "actual": "病変が消退しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "いんえいのしょうたい",
+        "expected": "陰影の消退",
+        "actual": "陰影の消退",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しょうもうにけっせつをみとめます",
+        "expected": "小網に結節を認めます",
+        "actual": "小網に結節を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうもうのひこう",
+        "expected": "小網の肥厚",
+        "actual": "小網の肥厚",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんくうのきょうしょうか",
+        "expected": "真腔の狭小化",
+        "actual": "真腔の狭小化",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんくうをかくにんします",
+        "expected": "真腔を確認します",
+        "actual": "真腔を確認します",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けっせつがしんしゅつしています",
+        "expected": "結節が新出しています",
+        "actual": "結節が新出しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しんしゅつのびょうへん",
+        "expected": "新出の病変",
+        "actual": "新出の病変",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんどうにしんてんしています",
+        "expected": "腎洞に進展しています",
+        "actual": "腎洞に進展しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんどうのしぼう",
+        "expected": "腎洞の脂肪",
+        "actual": "腎洞の脂肪",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんぱいのかくちょう",
+        "expected": "腎杯の拡張",
+        "actual": "腎杯の拡張",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんぱいにけっせきをみとめます",
+        "expected": "腎杯に結石を認めます",
+        "actual": "腎杯に結石を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんろうをぞうせつします",
+        "expected": "腎瘻を造設します",
+        "actual": "腎瘻を造設します",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんろうかてーてる",
+        "expected": "腎瘻カテーテル",
+        "actual": "腎瘻カテーテル",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "せいのうにしんじゅんしています",
+        "expected": "精嚢に浸潤しています",
+        "actual": "精嚢に浸潤しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "せいのうのしゅだい",
+        "expected": "精嚢の腫大",
+        "actual": "精嚢の腫大",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいじょうのいんえい",
+        "expected": "帯状の陰影",
+        "actual": "帯状の陰影",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいじょうのこうしんごう",
+        "expected": "帯状の高信号",
+        "actual": "帯状の高信号",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいもうにけっせつをみとめます",
+        "expected": "大網に結節を認めます",
+        "actual": "大網に結節を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいもうのひこう",
+        "expected": "大網の肥厚",
+        "actual": "大網の肥厚",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "だいたいこつけいぶこっせつをみとめます",
+        "expected": "大腿骨頸部骨折を認めます",
+        "actual": "大腿骨頸部骨折を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ひだりだいたいこつけいぶこっせつ",
+        "expected": "左大腿骨頸部骨折",
+        "actual": "左大腿骨頸部骨折",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "けっかんのだこう",
+        "expected": "血管の蛇行",
+        "actual": "血管の蛇行",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "どうみゃくがだこうしています",
+        "expected": "動脈が蛇行しています",
+        "actual": "動脈が蛇行しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ちずじょうのていきゅうしゅういき",
+        "expected": "地図状の低吸収域",
+        "actual": "地図状の低吸収域",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ちずじょうのいんえい",
+        "expected": "地図状の陰影",
+        "actual": "地図状の陰影",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ないけいじょうみゃくにけっせんをみとめます",
+        "expected": "内頸静脈に血栓を認めます",
+        "actual": "内頸静脈に血栓を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "みぎないけいじょうみゃく",
+        "expected": "右内頸静脈",
+        "actual": "右内頸静脈",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "のうきょうをうたがいます",
+        "expected": "膿胸を疑います",
+        "actual": "膿胸を疑います",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "のうきょうにたいするどれなーじ",
+        "expected": "膿胸に対するドレナージ",
+        "actual": "膿胸に対するドレナージ",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "りんじょうのぞうえいこうか",
+        "expected": "輪状の造影効果",
+        "actual": "輪状の造影効果",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "りんじょうのせっかいか",
+        "expected": "輪状の石灰化",
+        "actual": "輪状の石灰化",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かせいりゅうをみとめます",
+        "expected": "仮性瘤を認めます",
+        "actual": "仮性瘤を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たぼうせいののうほうせいびょうへん",
+        "expected": "多房性の嚢胞性病変",
+        "actual": "多房性の嚢胞性病変",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "そうきのうせんをしめします",
+        "expected": "早期濃染を示します",
+        "actual": "早期濃染を示します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ねんえきせんをみとめます",
+        "expected": "粘液栓を認めます",
+        "actual": "粘液栓を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "へいこうそうでぞうえいされます",
+        "expected": "平衡相で造影されます",
+        "actual": "平衡相で造影されます",
+        "matches": true,
+        "candidate_found": false
+      }
+    ],
+    "fresh28_rechecked": [
+      {
+        "reading": "ひだりはいにかいじょうのびょうへんをみとめます",
+        "expected": "左肺に塊状の病変を認めます",
+        "actual": "左肺に塊状の病変を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しゅりゅうないにかんじょうのせっかいかをみとめます",
+        "expected": "腫瘤内に環状の石灰化を認めます",
+        "actual": "腫瘤内に環状の石灰化を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "みぎききょうはありません",
+        "expected": "右気胸はありません",
+        "actual": "右気胸はありません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たはつするけつじょうのていきゅうしゅういき",
+        "expected": "多発する楔状の低吸収域",
+        "actual": "多発する楔状の低吸収域",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "こうかをみとめません",
+        "expected": "硬化を認めません",
+        "actual": "硬化を認めません",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けっせつはしょうたいしています",
+        "expected": "結節は消退しています",
+        "actual": "結節は消退しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうもうにけっせつがさんざいしています",
+        "expected": "小網に結節が散在しています",
+        "actual": "小網に結節が散在しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうもうのひこうをともないます",
+        "expected": "小網の肥厚を伴います",
+        "actual": "小網の肥厚を伴います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しんくうのきょうしょうかがちょめいです",
+        "expected": "真腔の狭小化が著明です",
+        "actual": "真腔の狭小化が著明です",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんしゅつのびょうへんはありません",
+        "expected": "新出の病変はありません",
+        "actual": "新出の病変はありません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんどうのしぼうにへんかはありません",
+        "expected": "腎洞の脂肪に変化はありません",
+        "actual": "腎洞の脂肪に変化はありません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんぱいのかくちょうをともないます",
+        "expected": "腎杯の拡張を伴います",
+        "actual": "腎杯の拡張を伴います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんろうかてーてるをこうかんします",
+        "expected": "腎瘻カテーテルを交換します",
+        "actual": "腎瘻カテーテルを交換します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "せいのうのしゅだいをみとめません",
+        "expected": "精嚢の腫大を認めません",
+        "actual": "精嚢の腫大を認めません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいじょうのいんえいがざんぞんしています",
+        "expected": "帯状の陰影が残存しています",
+        "actual": "帯状の陰影が残存しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいもうのひこうはかいぜんしています",
+        "expected": "大網の肥厚は改善しています",
+        "actual": "大網の肥厚は改善しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ちずじょうのていきゅうしゅういきがかくだいしています",
+        "expected": "地図状の低吸収域が拡大しています",
+        "actual": "地図状の低吸収域が拡大しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ないけいじょうみゃくにけっせんがざんぞんしています",
+        "expected": "内頸静脈に血栓が残存しています",
+        "actual": "内頸静脈に血栓が残存しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "のうきょうをうたがいません",
+        "expected": "膿胸を疑いません",
+        "actual": "膿胸を疑いません",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "りんじょうのぞうえいこうかをともないます",
+        "expected": "輪状の造影効果を伴います",
+        "actual": "輪状の造影効果を伴います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "びょうへんはしょうたいしました",
+        "expected": "病変は消退しました",
+        "actual": "病変は消退しました",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しゅりゅうがしんしゅつしています",
+        "expected": "腫瘤が新出しています",
+        "actual": "腫瘤が新出しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんしゅつけっせつはありません",
+        "expected": "新出結節はありません",
+        "actual": "新出結節はありません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ききょうをみとめません",
+        "expected": "気胸を認めません",
+        "actual": "気胸を認めません",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "せいのうにしんじゅんしていません",
+        "expected": "精嚢に浸潤していません",
+        "actual": "精嚢に浸潤していません",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんぱいにけっせきはありません",
+        "expected": "腎杯に結石はありません",
+        "actual": "腎杯に結石はありません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "びょうへんはしょうたいしていません",
+        "expected": "病変は消退していません",
+        "actual": "病変は消退していません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "けっせつはしんしゅつしていません",
+        "expected": "結節は新出していません",
+        "actual": "結節は新出していません",
+        "matches": true,
+        "candidate_found": false
+      }
+    ],
+    "final12": [
+      {
+        "reading": "しんしゅつけっせつをふくすうみとめます",
+        "expected": "新出結節を複数認めます",
+        "actual": "新出結節を複数認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "あきらかなじんぱいのかくちょうはありません",
+        "expected": "明らかな腎杯の拡張はありません",
+        "actual": "明らかな腎杯の拡張はありません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "せいのうのしゅだいがけいげんしています",
+        "expected": "精嚢の腫大が軽減しています",
+        "actual": "精嚢の腫大が軽減しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうもうのけっせつがぞうだいしています",
+        "expected": "小網の結節が増大しています",
+        "actual": "小網の結節が増大しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "かんじょうのぞうえいこうかはみとめません",
+        "expected": "環状の造影効果は認めません",
+        "actual": "環状の造影効果は認めません",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "のうきょうをうたがっています",
+        "expected": "膿胸を疑っています",
+        "actual": "膿胸を疑っています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けいしつをみとめません",
+        "expected": "憩室を認めません",
+        "actual": "憩室を認めません",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんくうをかくにんしました",
+        "expected": "真腔を確認しました",
+        "actual": "真腔を確認しました",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいもうのひこうがざんぞんしています",
+        "expected": "大網の肥厚が残存しています",
+        "actual": "大網の肥厚が残存しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ちずじょうのいんえいはしょうたいしています",
+        "expected": "地図状の陰影は消退しています",
+        "actual": "地図状の陰影は消退しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "けっせつはしんしゅつしていませんでした",
+        "expected": "結節は新出していませんでした",
+        "actual": "結節は新出していませんでした",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "びょうへんはしょうたいしませんでした",
+        "expected": "病変は消退しませんでした",
+        "actual": "病変は消退しませんでした",
+        "matches": true,
+        "candidate_found": false
+      }
+    ],
+    "additional54_after_tuning": [
+      {
+        "reading": "かいじょうのていしんごう",
+        "expected": "塊状の低信号",
+        "actual": "塊状の低信号",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かいじょうのけっせつ",
+        "expected": "塊状の結節",
+        "actual": "塊状の結節",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かんじょうのていきゅうしゅういき",
+        "expected": "環状の低吸収域",
+        "actual": "環状の低吸収域",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かんじょうのせっかいかをともないます",
+        "expected": "環状の石灰化を伴います",
+        "actual": "環状の石灰化を伴います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ききょうのはんい",
+        "expected": "気胸の範囲",
+        "actual": "気胸の範囲",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ききょうをがっぺいしています",
+        "expected": "気胸を合併しています",
+        "actual": "気胸を合併しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けいしつのへき",
+        "expected": "憩室の壁",
+        "actual": "憩室の壁",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けいしつにえんしょうをともないます",
+        "expected": "憩室に炎症を伴います",
+        "actual": "憩室に炎症を伴います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "けつじょうのぞうえいふりょう",
+        "expected": "楔状の造影不良",
+        "actual": "楔状の造影不良",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けつじょうのけいたい",
+        "expected": "楔状の形態",
+        "actual": "楔状の形態",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "こうかがしんこうしています",
+        "expected": "硬化が進行しています",
+        "actual": "硬化が進行しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ほねのこうか",
+        "expected": "骨の硬化",
+        "actual": "骨の硬化",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しょうたいけいこう",
+        "expected": "消退傾向",
+        "actual": "消退傾向",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けっせつがしょうたいしました",
+        "expected": "結節が消退しました",
+        "actual": "結節が消退しました",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうもうのけっせつ",
+        "expected": "小網の結節",
+        "actual": "小網の結節",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しょうもうにしゅりゅうをみとめます",
+        "expected": "小網に腫瘤を認めます",
+        "actual": "小網に腫瘤を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しんくうがきょうしょうかしています",
+        "expected": "真腔が狭小化しています",
+        "actual": "真腔が狭小化しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんくうのけい",
+        "expected": "真腔の径",
+        "actual": "真腔の径",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "しんしゅつけっせつ",
+        "expected": "新出結節",
+        "actual": "新出結節",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "びょうへんがしんしゅつしました",
+        "expected": "病変が新出しました",
+        "actual": "病変が新出しました",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんどうのしゅりゅう",
+        "expected": "腎洞の腫瘤",
+        "actual": "腎洞の腫瘤",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんどうにしんじゅんしています",
+        "expected": "腎洞に浸潤しています",
+        "actual": "腎洞に浸潤しています",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんぱいのけっせき",
+        "expected": "腎杯の結石",
+        "actual": "腎杯の結石",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんぱいにかくちょうをみとめます",
+        "expected": "腎杯に拡張を認めます",
+        "actual": "腎杯に拡張を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんろうのかんり",
+        "expected": "腎瘻の管理",
+        "actual": "腎瘻の管理",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんろうをりゅうちしました",
+        "expected": "腎瘻を留置しました",
+        "actual": "腎瘻を留置しました",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "せいのうのかくちょう",
+        "expected": "精嚢の拡張",
+        "actual": "精嚢の拡張",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "せいのうにびょうへんをみとめます",
+        "expected": "精嚢に病変を認めます",
+        "actual": "精嚢に病変を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいじょうのていきゅうしゅういき",
+        "expected": "帯状の低吸収域",
+        "actual": "帯状の低吸収域",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいじょうのぞうえいこうか",
+        "expected": "帯状の造影効果",
+        "actual": "帯状の造影効果",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいもうのけっせつ",
+        "expected": "大網の結節",
+        "actual": "大網の結節",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいもうにしゅりゅうをみとめます",
+        "expected": "大網に腫瘤を認めます",
+        "actual": "大網に腫瘤を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "だいたいこつけいぶこっせつのちりょう",
+        "expected": "大腿骨頸部骨折の治療",
+        "actual": "大腿骨頸部骨折の治療",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "だいたいこつけいぶこっせつをうたがいます",
+        "expected": "大腿骨頸部骨折を疑います",
+        "actual": "大腿骨頸部骨折を疑います",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "だこうがめだちます",
+        "expected": "蛇行が目立ちます",
+        "actual": "蛇行が目立ちます",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "こうどにだこうしています",
+        "expected": "高度に蛇行しています",
+        "actual": "高度に蛇行しています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ちずじょうのこうしんごう",
+        "expected": "地図状の高信号",
+        "actual": "地図状の高信号",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ちずじょうのぞうえいこうか",
+        "expected": "地図状の造影効果",
+        "actual": "地図状の造影効果",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ないけいじょうみゃくのきょうさく",
+        "expected": "内頸静脈の狭窄",
+        "actual": "内頸静脈の狭窄",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ないけいじょうみゃくをせんしします",
+        "expected": "内頸静脈を穿刺します",
+        "actual": "内頸静脈を穿刺します",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "のうきょうのはんい",
+        "expected": "膿胸の範囲",
+        "actual": "膿胸の範囲",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "のうきょうにたいしてちりょうします",
+        "expected": "膿胸に対して治療します",
+        "actual": "膿胸に対して治療します",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "りんじょうのこうしんごう",
+        "expected": "輪状の高信号",
+        "actual": "輪状の高信号",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "りんじょうのていきゅうしゅういき",
+        "expected": "輪状の低吸収域",
+        "actual": "輪状の低吸収域",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かせいりゅうのぞうだい",
+        "expected": "仮性瘤の増大",
+        "actual": "仮性瘤の増大",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "かせいりゅうないのけっせん",
+        "expected": "仮性瘤内の血栓",
+        "actual": "仮性瘤内の血栓",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たぼうせいののうほう",
+        "expected": "多房性の嚢胞",
+        "actual": "多房性の嚢胞",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たぼうせいのしゅりゅう",
+        "expected": "多房性の腫瘤",
+        "actual": "多房性の腫瘤",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "そうきのうせんをみとめます",
+        "expected": "早期濃染を認めます",
+        "actual": "早期濃染を認めます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "そうきのうせんのはんい",
+        "expected": "早期濃染の範囲",
+        "actual": "早期濃染の範囲",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ねんえきせんによるへいそく",
+        "expected": "粘液栓による閉塞",
+        "actual": "粘液栓による閉塞",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ねんえきせんのはんい",
+        "expected": "粘液栓の範囲",
+        "actual": "粘液栓の範囲",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "へいこうそうでかくにんします",
+        "expected": "平衡相で確認します",
+        "actual": "平衡相で確認します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "へいこうそうのがぞう",
+        "expected": "平衡相の画像",
+        "actual": "平衡相の画像",
+        "matches": true,
+        "candidate_found": false
+      }
+    ]
+  },
+  "general_groups": {
+    "general": [
+      {
+        "reading": "かいじょうにとうちゃくしました",
+        "expected": "会場に到着しました",
+        "actual": "会場に到着しました",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "かんじょうをすませます",
+        "expected": "勘定を済ませます",
+        "actual": "勘定を済ませます",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ききょうします",
+        "expected": "帰郷します",
+        "actual": "帰郷します",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "けつじょうします",
+        "expected": "欠場します",
+        "actual": "欠場します",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "こうかがあります",
+        "expected": "効果があります",
+        "actual": "効果があります",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうたいされました",
+        "expected": "招待されました",
+        "actual": "招待されました",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "たいりょくをしょうもうしました",
+        "expected": "体力を消耗しました",
+        "actual": "体力を消耗しました",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しんくうぱっく",
+        "expected": "真空パック",
+        "actual": "真空パック",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "かいがいにしんしゅつします",
+        "expected": "海外に進出します",
+        "actual": "海外に進出します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんどうしえん",
+        "expected": "人道支援",
+        "actual": "人道支援",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "じんろうげーむ",
+        "expected": "人狼ゲーム",
+        "actual": "人狼ゲーム",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "せいのうをひょうかします",
+        "expected": "性能を評価します",
+        "actual": "性能を評価します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいもうがこい",
+        "expected": "体毛が濃い",
+        "actual": "体毛が濃い",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ちずじょうのいち",
+        "expected": "地図上の位置",
+        "actual": "地図上の位置",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "のうきょうではたらいています",
+        "expected": "農協で働いています",
+        "actual": "農協で働いています",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "りんじょうかんがあります",
+        "expected": "臨場感があります",
+        "actual": "臨場感があります",
+        "matches": true,
+        "candidate_found": false
+      }
+    ],
+    "general_extra": [
+      {
+        "reading": "かいじょうのあんない",
+        "expected": "会場の案内",
+        "actual": "会場の案内",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "かんじょうのへんか",
+        "expected": "感情の変化",
+        "actual": "感情の変化",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "こうかをかくにんします",
+        "expected": "効果を確認します",
+        "actual": "効果を確認します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "せいのうにもんだいがあります",
+        "expected": "性能に問題があります",
+        "actual": "性能に問題があります",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ちずじょうのけいろ",
+        "expected": "地図上の経路",
+        "actual": "地図上の経路",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しんくうをかくにんします",
+        "expected": "真空を確認します",
+        "actual": "真腔を確認します",
+        "matches": false,
+        "candidate_found": false
+      },
+      {
+        "reading": "のうきょうのしょくいん",
+        "expected": "農協の職員",
+        "actual": "農協の職員",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "ききょうをよていしています",
+        "expected": "帰郷を予定しています",
+        "actual": "桔梗を予定しています",
+        "matches": false,
+        "candidate_found": false
+      },
+      {
+        "reading": "けいしつのへんか",
+        "expected": "形質の変化",
+        "actual": "形質の変化",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "じんろうのげーむ",
+        "expected": "人狼のゲーム",
+        "actual": "人狼のゲーム",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいもうのりょう",
+        "expected": "体毛の量",
+        "actual": "体毛の量",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "たいじょうのりゆう",
+        "expected": "退場の理由",
+        "actual": "退場の理由",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうたいじょうをおくります",
+        "expected": "招待状を送ります",
+        "actual": "招待状を送ります",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "かいがいしんしゅつ",
+        "expected": "海外進出",
+        "actual": "海外進出",
+        "matches": true,
+        "candidate_found": true
+      },
+      {
+        "reading": "ちずじょうでかくにんします",
+        "expected": "地図上で確認します",
+        "actual": "地図上で確認します",
+        "matches": true,
+        "candidate_found": false
+      },
+      {
+        "reading": "しょうもうひんをこうにゅうします",
+        "expected": "消耗品を購入します",
+        "actual": "消耗品を購入します",
+        "matches": true,
+        "candidate_found": false
+      }
+    ]
+  },
+  "standalone_1000": [
+    {
+      "reading": "あいじーじーよんかんれんこうかせいたんかんえん",
+      "expected": "IgG4関連硬化性胆管炎",
+      "actual": "IgG4関連硬化性胆管炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あきれすけんだんれつ",
+      "expected": "アキレス腱断裂",
+      "actual": "アキレス腱断裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あくせいりんぱしゅ",
+      "expected": "悪性リンパ腫",
+      "actual": "悪性リンパ腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あっぱい",
+      "expected": "圧排",
+      "actual": "圧排",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あっぱいせいむきはい",
+      "expected": "圧排性無気肺",
+      "actual": "圧排性無気肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あっぱくこっせつ",
+      "expected": "圧迫骨折",
+      "actual": "圧迫骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あっぱくしけつ",
+      "expected": "圧迫止血",
+      "actual": "圧迫止血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "あてろーむけっせんせいのうこうそく",
+      "expected": "アテローム血栓性脳梗塞",
+      "actual": "アテローム血栓性脳梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いがん",
+      "expected": "胃癌",
+      "actual": "胃癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いしゅく",
+      "expected": "萎縮",
+      "actual": "萎縮",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いしょせいかいはくしつ",
+      "expected": "異所性灰白質",
+      "actual": "異所性灰白質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いじゅうにしちょうかいよう",
+      "expected": "胃十二指腸潰瘍",
+      "actual": "胃十二指腸潰瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いじゅうにしちょうどうみゃく",
+      "expected": "胃十二指腸動脈",
+      "actual": "胃十二指腸動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いじょうのうせん",
+      "expected": "異常濃染",
+      "actual": "異常濃染",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いじょうみゃくりゅう",
+      "expected": "胃静脈瘤",
+      "actual": "胃静脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いせんこう",
+      "expected": "胃穿孔",
+      "actual": "胃穿孔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いそうえんこーど",
+      "expected": "位相エンコード",
+      "actual": "位相エンコード",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いねんまくかしゅよう",
+      "expected": "胃粘膜下腫瘍",
+      "actual": "胃粘膜下腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いろう",
+      "expected": "胃瘻",
+      "actual": "胃瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いんごのうよう",
+      "expected": "咽後膿瘍",
+      "actual": "咽後膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "いんすりのーま",
+      "expected": "インスリノーマ",
+      "actual": "インスリノーマ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えいようけっかん",
+      "expected": "栄養血管",
+      "actual": "栄養血管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えきかりんぱせつ",
+      "expected": "腋窩リンパ節",
+      "actual": "腋窩リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えきたいそくせんぶっしつ",
+      "expected": "液体塞栓物質",
+      "actual": "液体塞栓物質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えきたいちょりゅう",
+      "expected": "液体貯留",
+      "actual": "液体貯留",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えきたいのうど",
+      "expected": "液体濃度",
+      "actual": "液体濃度",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えきめんけいせい",
+      "expected": "液面形成",
+      "actual": "液面形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えし",
+      "expected": "壊死",
+      "actual": "壊死",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えしせいきんまくえん",
+      "expected": "壊死性筋膜炎",
+      "actual": "壊死性筋膜炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えしせいすいえん",
+      "expected": "壊死性膵炎",
+      "actual": "壊死性膵炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えすじょうじょうみゃくどう",
+      "expected": "S状静脈洞",
+      "actual": "S状静脈洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "えんけいむきはい",
+      "expected": "円形無気肺",
+      "actual": "円形無気肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうかくどうみゃく",
+      "expected": "横隔動脈",
+      "actual": "横隔動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうかくまくかのうよう",
+      "expected": "横隔膜下膿瘍",
+      "actual": "横隔膜下膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうかくまくへるにあ",
+      "expected": "横隔膜ヘルニア",
+      "actual": "横隔膜ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうしょくじんたいこつかしょう",
+      "expected": "黄色靱帯骨化症",
+      "actual": "黄色靱帯骨化症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうじょうみゃくどう",
+      "expected": "横静脈洞",
+      "actual": "横静脈洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうたいのうほう",
+      "expected": "黄体嚢胞",
+      "actual": "黄体嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうだんぞう",
+      "expected": "横断像",
+      "actual": "横断像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おうとっき",
+      "expected": "横突起",
+      "actual": "横突起",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おやかてーてる",
+      "expected": "親カテーテル",
+      "actual": "親カテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おりかえしあーちふぁくと",
+      "expected": "折り返しアーチファクト",
+      "actual": "折り返しアーチファクト",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "おんきょういんえい",
+      "expected": "音響陰影",
+      "actual": "音響陰影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいじょう",
+      "expected": "塊状",
+      "actual": "塊状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいばこうかしょう",
+      "expected": "海馬硬化症",
+      "actual": "海馬硬化症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいめんじょうけっかんしゅ",
+      "expected": "海綿状血管腫",
+      "actual": "海綿状血管腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいめんじょうみゃくどう",
+      "expected": "海綿静脈洞",
+      "actual": "海綿静脈洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいようせいだいちょうえん",
+      "expected": "潰瘍性大腸炎",
+      "actual": "潰瘍性大腸炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいりせいだいどうみゃくりゅう",
+      "expected": "解離性大動脈瘤",
+      "actual": "解離性大動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かいんとうがん",
+      "expected": "下咽頭癌",
+      "actual": "下咽頭癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かがくしふと",
+      "expected": "化学シフト",
+      "actual": "化学シフト",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かがくそくせんりょうほう",
+      "expected": "化学塞栓療法",
+      "actual": "化学塞栓療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かぎゃくせいこうとうようはくしつのうしょう",
+      "expected": "可逆性後頭葉白質脳症",
+      "actual": "可逆性後頭葉白質脳症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かくさんきょうちょうがぞう",
+      "expected": "拡散強調画像",
+      "actual": "拡散強調画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かくさんけいすう",
+      "expected": "拡散係数",
+      "actual": "拡散係数",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かくさんせいげん",
+      "expected": "拡散制限",
+      "actual": "拡散制限",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かくちょう",
+      "expected": "拡張",
+      "actual": "拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かくちょうがたしんきんしょう",
+      "expected": "拡張型心筋症",
+      "actual": "拡張型心筋症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かくへき",
+      "expected": "隔壁",
+      "actual": "隔壁",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かすいたいせんしゅ",
+      "expected": "下垂体腺腫",
+      "actual": "下垂体腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かせいどうみゃくりゅう",
+      "expected": "仮性動脈瘤",
+      "actual": "仮性動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かせいりゅう",
+      "expected": "仮性瘤",
+      "actual": "仮性瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かたかんせつだっきゅう",
+      "expected": "肩関節脱臼",
+      "actual": "肩関節脱臼",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かだいじょうみゃく",
+      "expected": "下大静脈",
+      "actual": "下大静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かだいじょうみゃくけっせんしょう",
+      "expected": "下大静脈血栓症",
+      "actual": "下大静脈血栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かだいじょうみゃくふぃるたー",
+      "expected": "下大静脈フィルター",
+      "actual": "下大静脈フィルター",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かちょうかんまくじょうみゃく",
+      "expected": "下腸間膜静脈",
+      "actual": "下腸間膜静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かちょうかんまくどうみゃく",
+      "expected": "下腸間膜動脈",
+      "actual": "下腸間膜動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かっしょくさいぼうしゅ",
+      "expected": "褐色細胞腫",
+      "actual": "褐色細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かつえきほうえん",
+      "expected": "滑液包炎",
+      "actual": "滑液包炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かつどうせいしゅっけつ",
+      "expected": "活動性出血",
+      "actual": "活動性出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かつまくぞうしょく",
+      "expected": "滑膜増殖",
+      "actual": "滑膜増殖",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かつまくにくしゅ",
+      "expected": "滑膜肉腫",
+      "actual": "滑膜肉腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かつまくひこう",
+      "expected": "滑膜肥厚",
+      "actual": "滑膜肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かてーてる",
+      "expected": "カテーテル",
+      "actual": "カテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かてーてるいつだつ",
+      "expected": "カテーテル逸脱",
+      "actual": "カテーテル逸脱",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かてーてるこうかん",
+      "expected": "カテーテル交換",
+      "actual": "カテーテル交換",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かてーてるへいそく",
+      "expected": "カテーテル閉塞",
+      "actual": "カテーテル閉塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かのうせいかんせつえん",
+      "expected": "化膿性関節炎",
+      "actual": "化膿性関節炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かのうせいせきついえん",
+      "expected": "化膿性脊椎炎",
+      "actual": "化膿性脊椎炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かびんせいはいえん",
+      "expected": "過敏性肺炎",
+      "actual": "過敏性肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "からーどぷら",
+      "expected": "カラードプラ",
+      "actual": "カラードプラ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かりゅうまくさいぼうしゅ",
+      "expected": "顆粒膜細胞腫",
+      "actual": "顆粒膜細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんうよう",
+      "expected": "肝右葉",
+      "actual": "肝右葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんえんさく",
+      "expected": "肝円索",
+      "actual": "肝円索",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんかまじょうかんまく",
+      "expected": "肝鎌状間膜",
+      "actual": "肝鎌状間膜",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんがいそくくいき",
+      "expected": "肝外側区域",
+      "actual": "肝外側区域",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんがいたんかんかくちょう",
+      "expected": "肝外胆管拡張",
+      "actual": "肝外胆管拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんがしゅ",
+      "expected": "肝芽腫",
+      "actual": "肝芽腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんけっかんきんしぼうしゅ",
+      "expected": "肝血管筋脂肪腫",
+      "actual": "肝血管筋脂肪腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんけっかんしゅ",
+      "expected": "肝血管腫",
+      "actual": "肝血管腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんこうくいき",
+      "expected": "肝後区域",
+      "actual": "肝後区域",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんこうそく",
+      "expected": "肝梗塞",
+      "actual": "肝梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんこうへん",
+      "expected": "肝硬変",
+      "actual": "肝硬変",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんさいぼうがん",
+      "expected": "肝細胞癌",
+      "actual": "肝細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんさいぼうせんしゅ",
+      "expected": "肝細胞腺腫",
+      "actual": "肝細胞腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんさいぼうそう",
+      "expected": "肝細胞相",
+      "actual": "肝細胞相",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんさよう",
+      "expected": "肝左葉",
+      "actual": "肝左葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんしつせいはいえん",
+      "expected": "間質性肺炎",
+      "actual": "間質性肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんじゅうにしちょうかんまく",
+      "expected": "肝十二指腸間膜",
+      "actual": "肝十二指腸間膜",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんじょう",
+      "expected": "環状",
+      "actual": "環状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんじょうだんぞう",
+      "expected": "冠状断像",
+      "actual": "冠状断像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんじょうみゃく",
+      "expected": "肝静脈",
+      "actual": "肝静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんじょうみゃくあつかくさ",
+      "expected": "肝静脈圧較差",
+      "actual": "肝静脈圧較差",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんせつすいしゅ",
+      "expected": "関節水腫",
+      "actual": "関節水腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんせつないゆうりたい",
+      "expected": "関節内遊離体",
+      "actual": "関節内遊離体",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんせつりうまち",
+      "expected": "関節リウマチ",
+      "actual": "関節リウマチ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんせつれつげききょうしょうか",
+      "expected": "関節裂隙狭小化",
+      "actual": "関節裂隙狭小化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんせんせいどうみゃくりゅう",
+      "expected": "感染性動脈瘤",
+      "actual": "感染性動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんぜんくいき",
+      "expected": "肝前区域",
+      "actual": "肝前区域",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんそんしょう",
+      "expected": "肝損傷",
+      "actual": "肝損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんどうみゃくかがくそくせんりょうほう",
+      "expected": "肝動脈化学塞栓療法",
+      "actual": "肝動脈化学塞栓療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんどうみゃくかせいどうみゃくりゅう",
+      "expected": "肝動脈仮性動脈瘤",
+      "actual": "肝動脈仮性動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんどうみゃくきょうさく",
+      "expected": "冠動脈狭窄",
+      "actual": "冠動脈狭窄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんどうみゃくせっかいか",
+      "expected": "冠動脈石灰化",
+      "actual": "冠動脈石灰化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんどうみゃくそくせんじゅつ",
+      "expected": "肝動脈塞栓術",
+      "actual": "肝動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんどうみゃくりゅう",
+      "expected": "肝動脈瘤",
+      "actual": "肝動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんないけっせき",
+      "expected": "肝内結石",
+      "actual": "肝内結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんないそくくいき",
+      "expected": "肝内側区域",
+      "actual": "肝内側区域",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんないたんかんかくちょう",
+      "expected": "肝内胆管拡張",
+      "actual": "肝内胆管拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんないたんかんがん",
+      "expected": "肝内胆管癌",
+      "actual": "肝内胆管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんのうほう",
+      "expected": "肝嚢胞",
+      "actual": "肝嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんのうよう",
+      "expected": "肝膿瘍",
+      "actual": "肝膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんひまくかけっしゅ",
+      "expected": "肝被膜下血腫",
+      "actual": "肝被膜下血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんもんぶ",
+      "expected": "肝門部",
+      "actual": "肝門部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんもんぶたんかんがん",
+      "expected": "肝門部胆管癌",
+      "actual": "肝門部胆管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんりゅういじょう",
+      "expected": "灌流異常",
+      "actual": "灌流異常",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "かんりゅうがぞう",
+      "expected": "灌流画像",
+      "actual": "灌流画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がいけいどうみゃく",
+      "expected": "外頸動脈",
+      "actual": "外頸動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がいしょうせいくもまくかしゅっけつ",
+      "expected": "外傷性くも膜下出血",
+      "actual": "外傷性くも膜下出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がいそくていく",
+      "expected": "外側底区",
+      "actual": "外側底区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がいちょうこつどうみゃく",
+      "expected": "外腸骨動脈",
+      "actual": "外腸骨動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がいちょうこつりんぱせつ",
+      "expected": "外腸骨リンパ節",
+      "actual": "外腸骨リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がいどわいやー",
+      "expected": "ガイドワイヤー",
+      "actual": "ガイドワイヤー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がくかせん",
+      "expected": "顎下腺",
+      "actual": "顎下腺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がすちょりゅう",
+      "expected": "ガス貯留",
+      "actual": "ガス貯留",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がすとりのーま",
+      "expected": "ガストリノーマ",
+      "actual": "ガストリノーマ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がんき",
+      "expected": "含気",
+      "actual": "含気",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がんきしょうしつ",
+      "expected": "含気消失",
+      "actual": "含気消失",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がんきていか",
+      "expected": "含気低下",
+      "actual": "含気低下",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "がんぐりおん",
+      "expected": "ガングリオン",
+      "actual": "ガングリオン",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしかくちょう",
+      "expected": "気管支拡張",
+      "actual": "気管支拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしかくちょうしょう",
+      "expected": "気管支拡張症",
+      "actual": "気管支拡張症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしけっかんそくひこう",
+      "expected": "気管支血管束肥厚",
+      "actual": "気管支血管束肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしとうりょうぞう",
+      "expected": "気管支透亮像",
+      "actual": "気管支透亮像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしどうみゃく",
+      "expected": "気管支動脈",
+      "actual": "気管支動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしどうみゃくそくせんじゅつ",
+      "expected": "気管支動脈塞栓術",
+      "actual": "気管支動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしのうほう",
+      "expected": "気管支嚢胞",
+      "actual": "気管支嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんしへきひこう",
+      "expected": "気管支壁肥厚",
+      "actual": "気管支壁肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんぶんきかりんぱせつ",
+      "expected": "気管分岐下リンパ節",
+      "actual": "気管分岐下リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きかんぶんきぶ",
+      "expected": "気管分岐部",
+      "actual": "気管分岐部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ききょう",
+      "expected": "気胸",
+      "actual": "気胸",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きしつかはいえん",
+      "expected": "器質化肺炎",
+      "actual": "器質化肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きしゅせいじんうじんえん",
+      "expected": "気腫性腎盂腎炎",
+      "actual": "気腫性腎盂腎炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きしゅせいたんのうえん",
+      "expected": "気腫性胆嚢炎",
+      "actual": "気腫性胆嚢炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きしゅせいのうほう",
+      "expected": "気腫性嚢胞",
+      "actual": "気腫性嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きしゅせいぼうこうえん",
+      "expected": "気腫性膀胱炎",
+      "actual": "気腫性膀胱炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きじょうみゃく",
+      "expected": "奇静脈",
+      "actual": "奇静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅういんさいぼうしん",
+      "expected": "吸引細胞診",
+      "actual": "吸引細胞診",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうじょうそくせんぶっしつ",
+      "expected": "球状塞栓物質",
+      "actual": "球状塞栓物質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいきのうこうそく",
+      "expected": "急性期脳梗塞",
+      "actual": "急性期脳梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいこうまくかけっしゅ",
+      "expected": "急性硬膜下血腫",
+      "actual": "急性硬膜下血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいこうまくがいけっしゅ",
+      "expected": "急性硬膜外血腫",
+      "actual": "急性硬膜外血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいさんざいせいのうせきずいえん",
+      "expected": "急性散在性脳脊髄炎",
+      "actual": "急性散在性脳脊髄炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいすいえん",
+      "expected": "急性膵炎",
+      "actual": "急性膵炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいたんのうえん",
+      "expected": "急性胆嚢炎",
+      "actual": "急性胆嚢炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいだいどうみゃくかいり",
+      "expected": "急性大動脈解離",
+      "actual": "急性大動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きゅうせいちゅうすいえん",
+      "expected": "急性虫垂炎",
+      "actual": "急性虫垂炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうかいふめいりょう",
+      "expected": "境界不明瞭",
+      "actual": "境界不明瞭",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうかいめいりょう",
+      "expected": "境界明瞭",
+      "actual": "境界明瞭",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうかんそくせんじゅつ",
+      "expected": "胸管塞栓術",
+      "actual": "胸管塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうさく",
+      "expected": "狭窄",
+      "actual": "狭窄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうすい",
+      "expected": "胸水",
+      "actual": "胸水",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうせんかけいせい",
+      "expected": "胸腺過形成",
+      "actual": "胸腺過形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうせんがん",
+      "expected": "胸腺癌",
+      "actual": "胸腺癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうせんしぼうしゅ",
+      "expected": "胸腺脂肪腫",
+      "actual": "胸腺脂肪腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうせんしゅ",
+      "expected": "胸腺腫",
+      "actual": "胸腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうせんのうほう",
+      "expected": "胸腺嚢胞",
+      "actual": "胸腺嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうぶだいどうみゃくりゅう",
+      "expected": "胸部大動脈瘤",
+      "actual": "胸部大動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくかけっせつ",
+      "expected": "胸膜下結節",
+      "actual": "胸膜下結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくかもうじょうえい",
+      "expected": "胸膜下網状影",
+      "actual": "胸膜下網状影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくかんにゅう",
+      "expected": "胸膜陥入",
+      "actual": "胸膜陥入",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくせっしょく",
+      "expected": "胸膜接触",
+      "actual": "胸膜接触",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくちゅうひしゅ",
+      "expected": "胸膜中皮腫",
+      "actual": "胸膜中皮腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくひこう",
+      "expected": "胸膜肥厚",
+      "actual": "胸膜肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうまくぷらーく",
+      "expected": "胸膜プラーク",
+      "actual": "胸膜プラーク",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょうめんぞう",
+      "expected": "鏡面像",
+      "actual": "鏡面像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょくじょうとっき",
+      "expected": "棘状突起",
+      "actual": "棘状突起",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょくとっき",
+      "expected": "棘突起",
+      "actual": "棘突起",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょけつせいちょうえん",
+      "expected": "虚血性腸炎",
+      "actual": "虚血性腸炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きょさいぼうせいどうみゃくえん",
+      "expected": "巨細胞性動脈炎",
+      "actual": "巨細胞性動脈炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きんいつ",
+      "expected": "均一",
+      "actual": "均一",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きんぞくあーちふぁくと",
+      "expected": "金属アーチファクト",
+      "actual": "金属アーチファクト",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きんぞくこいる",
+      "expected": "金属コイル",
+      "actual": "金属コイル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きんだんれつ",
+      "expected": "筋断裂",
+      "actual": "筋断裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "きんないけっしゅ",
+      "expected": "筋内血腫",
+      "actual": "筋内血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぎかんせつ",
+      "expected": "偽関節",
+      "actual": "偽関節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぎくう",
+      "expected": "偽腔",
+      "actual": "偽腔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぎつうふう",
+      "expected": "偽痛風",
+      "actual": "偽痛風",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぎゃっこうせいじんうぞうえい",
+      "expected": "逆行性腎盂造影",
+      "actual": "逆行性腎盂造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "くうどうけいせい",
+      "expected": "空洞形成",
+      "actual": "空洞形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "くもまくかしゅっけつ",
+      "expected": "くも膜下出血",
+      "actual": "くも膜下出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "くもまくのうほう",
+      "expected": "くも膜嚢胞",
+      "actual": "くも膜嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "くろーんびょう",
+      "expected": "クローン病",
+      "actual": "クローン病",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいけいじょうみゃくてきかんせいけん",
+      "expected": "経頸静脈的肝生検",
+      "actual": "経頸静脈的肝生検",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいしつ",
+      "expected": "憩室",
+      "actual": "憩室",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいしつえん",
+      "expected": "憩室炎",
+      "actual": "憩室炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいじょうみゃくてき",
+      "expected": "経静脈的",
+      "actual": "経静脈的",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいどうみゃくかいり",
+      "expected": "頸動脈解離",
+      "actual": "頸動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいどうみゃくてき",
+      "expected": "経動脈的",
+      "actual": "経動脈的",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいはい",
+      "expected": "珪肺",
+      "actual": "珪肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひけいかん",
+      "expected": "経皮経肝",
+      "actual": "経皮経肝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひけいかんたんどうぞうえい",
+      "expected": "経皮経肝胆道造影",
+      "actual": "経皮経肝胆道造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひけいかんたんどうどれなーじ",
+      "expected": "経皮経肝胆道ドレナージ",
+      "actual": "経皮経肝胆道ドレナージ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひけいかんたんのうどれなーじ",
+      "expected": "経皮経肝胆嚢ドレナージ",
+      "actual": "経皮経肝胆嚢ドレナージ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひてき",
+      "expected": "経皮的",
+      "actual": "経皮的",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひてきけっかんけいせいじゅつ",
+      "expected": "経皮的血管形成術",
+      "actual": "経皮的血管形成術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひてきどれなーじ",
+      "expected": "経皮的ドレナージ",
+      "actual": "経皮的ドレナージ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひてきのうようどれなーじ",
+      "expected": "経皮的膿瘍ドレナージ",
+      "actual": "経皮的膿瘍ドレナージ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けいひてきはりせいけん",
+      "expected": "経皮的針生検",
+      "actual": "経皮的針生検",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんえん",
+      "expected": "血管炎",
+      "actual": "血管炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんがいろうしゅつ",
+      "expected": "血管外漏出",
+      "actual": "血管外漏出",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんがしゅ",
+      "expected": "血管芽腫",
+      "actual": "血管芽腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんけいせいじゅつ",
+      "expected": "血管形成術",
+      "actual": "血管形成術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんそくせんじゅつ",
+      "expected": "血管塞栓術",
+      "actual": "血管塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんそんしょう",
+      "expected": "血管損傷",
+      "actual": "血管損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんぞうえい",
+      "expected": "血管造影",
+      "actual": "血管造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっかんれんしゅく",
+      "expected": "血管攣縮",
+      "actual": "血管攣縮",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっきょう",
+      "expected": "血胸",
+      "actual": "血胸",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっしゅ",
+      "expected": "血腫",
+      "actual": "血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせい",
+      "expected": "血性",
+      "actual": "血性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせいふくすい",
+      "expected": "血性腹水",
+      "actual": "血性腹水",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせつ",
+      "expected": "結節",
+      "actual": "結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせつえい",
+      "expected": "結節影",
+      "actual": "結節影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせつじょう",
+      "expected": "結節状",
+      "actual": "結節状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせつせい",
+      "expected": "結節性",
+      "actual": "結節性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせん",
+      "expected": "血栓",
+      "actual": "血栓",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせんしょう",
+      "expected": "血栓症",
+      "actual": "血栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせんじょきょじゅつ",
+      "expected": "血栓除去術",
+      "actual": "血栓除去術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせんへいそく",
+      "expected": "血栓閉塞",
+      "actual": "血栓閉塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けっせんようかいりょうほう",
+      "expected": "血栓溶解療法",
+      "actual": "血栓溶解療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けつじょう",
+      "expected": "楔状",
+      "actual": "楔状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けばだち",
+      "expected": "毛羽立ち",
+      "actual": "毛羽立ち",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんいんせいきかんしかくちょう",
+      "expected": "牽引性気管支拡張",
+      "actual": "牽引性気管支拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんしきそせいじんさいぼうがん",
+      "expected": "嫌色素性腎細胞癌",
+      "actual": "嫌色素性腎細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんしょうえん",
+      "expected": "腱鞘炎",
+      "actual": "腱鞘炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんしょうきょさいぼうしゅ",
+      "expected": "腱鞘巨細胞腫",
+      "actual": "腱鞘巨細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんしょうせんいしゅ",
+      "expected": "腱鞘線維腫",
+      "actual": "腱鞘線維腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんだんれつ",
+      "expected": "腱断裂",
+      "actual": "腱断裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "けんばんだんれつ",
+      "expected": "腱板断裂",
+      "actual": "腱板断裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "げんきょくせい",
+      "expected": "限局性",
+      "actual": "限局性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "げんきょくせいけっせつせいかけいせい",
+      "expected": "限局性結節性過形成",
+      "actual": "限局性結節性過形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "げんきょくせいしぼうかん",
+      "expected": "限局性脂肪肝",
+      "actual": "限局性脂肪肝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "げんぱつせいこうかせいたんかんえん",
+      "expected": "原発性硬化性胆管炎",
+      "actual": "原発性硬化性胆管炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こあせいけん",
+      "expected": "コア生検",
+      "actual": "コア生検",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こいるそくせんじゅつ",
+      "expected": "コイル塞栓術",
+      "actual": "コイル塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうえこー",
+      "expected": "高エコー",
+      "actual": "高エコー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうか",
+      "expected": "硬化",
+      "actual": "硬化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうかせいはいほうじょうひしゅ",
+      "expected": "硬化性肺胞上皮腫",
+      "actual": "硬化性肺胞上皮腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうかりょうほう",
+      "expected": "硬化療法",
+      "actual": "硬化療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうがしゅ",
+      "expected": "膠芽腫",
+      "actual": "膠芽腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうきゅうしゅう",
+      "expected": "高吸収",
+      "actual": "高吸収",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうぎょうこりょうほう",
+      "expected": "抗凝固療法",
+      "actual": "抗凝固療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうけっしょうばんりょうほう",
+      "expected": "抗血小板療法",
+      "actual": "抗血小板療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうこうつうどうみゃく",
+      "expected": "後交通動脈",
+      "actual": "後交通動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうさんきゅうせいはいえん",
+      "expected": "好酸球性肺炎",
+      "actual": "好酸球性肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうしんごう",
+      "expected": "高信号",
+      "actual": "高信号",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうじゅうじんたいこつかしょう",
+      "expected": "後縦靱帯骨化症",
+      "actual": "後縦靱帯骨化症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうじょうせんしゅよう",
+      "expected": "甲状腺腫瘍",
+      "actual": "甲状腺腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうじょうせんにゅうとうがん",
+      "expected": "甲状腺乳頭癌",
+      "actual": "甲状腺乳頭癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうじょうようく",
+      "expected": "後上葉区",
+      "actual": "後上葉区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうじんぼうくう",
+      "expected": "後腎傍腔",
+      "actual": "後腎傍腔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうそくすぴんえこーほう",
+      "expected": "高速スピンエコー法",
+      "actual": "高速スピンエコー法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうだいのうどうみゃく",
+      "expected": "後大脳動脈",
+      "actual": "後大脳動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうていく",
+      "expected": "後底区",
+      "actual": "後底区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうとうがん",
+      "expected": "喉頭癌",
+      "actual": "喉頭癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうのうど",
+      "expected": "高濃度",
+      "actual": "高濃度",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうふくまくけっしゅ",
+      "expected": "後腹膜血腫",
+      "actual": "後腹膜血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうふくまくせんいしょう",
+      "expected": "後腹膜線維症",
+      "actual": "後腹膜線維症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうへるにあ",
+      "expected": "鉤ヘルニア",
+      "actual": "鉤ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうほうえこーげんすい",
+      "expected": "後方エコー減衰",
+      "actual": "後方エコー減衰",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうほうえこーぞうきょう",
+      "expected": "後方エコー増強",
+      "actual": "後方エコー増強",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうまくかけっしゅ",
+      "expected": "硬膜下血腫",
+      "actual": "硬膜下血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうまくかすいしゅ",
+      "expected": "硬膜下水腫",
+      "actual": "硬膜下水腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうまくがいのうよう",
+      "expected": "硬膜外膿瘍",
+      "actual": "硬膜外膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうまくどうじょうみゃくろう",
+      "expected": "硬膜動静脈瘻",
+      "actual": "硬膜動静脈瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうまくのう",
+      "expected": "硬膜嚢",
+      "actual": "硬膜嚢",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうもんしゅういのうよう",
+      "expected": "肛門周囲膿瘍",
+      "actual": "肛門周囲膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こうやくせいいれうす",
+      "expected": "絞扼性イレウス",
+      "actual": "絞扼性イレウス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こかんせつだっきゅう",
+      "expected": "股関節脱臼",
+      "actual": "股関節脱臼",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こきゅうどうき",
+      "expected": "呼吸同期",
+      "actual": "呼吸同期",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こっせつ",
+      "expected": "骨折",
+      "actual": "骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつえし",
+      "expected": "骨壊死",
+      "actual": "骨壊死",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつか",
+      "expected": "骨化",
+      "actual": "骨化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつがさいぼうしゅ",
+      "expected": "骨芽細胞腫",
+      "actual": "骨芽細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつきょくけいせい",
+      "expected": "骨棘形成",
+      "actual": "骨棘形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつきょさいぼうしゅ",
+      "expected": "骨巨細胞腫",
+      "actual": "骨巨細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつこうか",
+      "expected": "骨硬化",
+      "actual": "骨硬化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつざしょう",
+      "expected": "骨挫傷",
+      "actual": "骨挫傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつずいえん",
+      "expected": "骨髄炎",
+      "actual": "骨髄炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつずいしゅ",
+      "expected": "骨髄腫",
+      "actual": "骨髄腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつずいふしゅ",
+      "expected": "骨髄浮腫",
+      "actual": "骨髄浮腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつてんい",
+      "expected": "骨転移",
+      "actual": "骨転移",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつとう",
+      "expected": "骨島",
+      "actual": "骨島",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつなんこつしゅ",
+      "expected": "骨軟骨腫",
+      "actual": "骨軟骨腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつなんこつそんしょう",
+      "expected": "骨軟骨損傷",
+      "actual": "骨軟骨損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつにくしゅ",
+      "expected": "骨肉腫",
+      "actual": "骨肉腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつのうしゅ",
+      "expected": "骨嚢腫",
+      "actual": "骨嚢腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつばんどうみゃくそくせんじゅつ",
+      "expected": "骨盤動脈塞栓術",
+      "actual": "骨盤動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつばんないえんしょうせいしっかん",
+      "expected": "骨盤内炎症性疾患",
+      "actual": "骨盤内炎症性疾患",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつばんないのうよう",
+      "expected": "骨盤内膿瘍",
+      "actual": "骨盤内膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつばんふぜんこっせつ",
+      "expected": "骨盤不全骨折",
+      "actual": "骨盤不全骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつひしつ",
+      "expected": "骨皮質",
+      "actual": "骨皮質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつびらん",
+      "expected": "骨びらん",
+      "actual": "骨びらん",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつまくはんのう",
+      "expected": "骨膜反応",
+      "actual": "骨膜反応",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつゆうかい",
+      "expected": "骨融解",
+      "actual": "骨融解",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こつりょう",
+      "expected": "骨梁",
+      "actual": "骨梁",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こゆうかんどうみゃく",
+      "expected": "固有肝動脈",
+      "actual": "固有肝動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "こりつせいせんいせいしゅよう",
+      "expected": "孤立性線維性腫瘍",
+      "actual": "孤立性線維性腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ころいどのうほう",
+      "expected": "コロイド嚢胞",
+      "actual": "コロイド嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ごえんせいはいえん",
+      "expected": "誤嚥性肺炎",
+      "actual": "誤嚥性肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいかいつう",
+      "expected": "再開通",
+      "actual": "再開通",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいきかんしえん",
+      "expected": "細気管支炎",
+      "actual": "細気管支炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいこうせいかんすう",
+      "expected": "再構成関数",
+      "actual": "再構成関数",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいしょうちとうえいほう",
+      "expected": "最小値投影法",
+      "actual": "最小値投影法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいせいけっせつ",
+      "expected": "再生結節",
+      "actual": "再生結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいだいちとうえいほう",
+      "expected": "最大値投影法",
+      "actual": "最大値投影法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さいへるにあ",
+      "expected": "臍ヘルニア",
+      "actual": "臍ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さくじょうえい",
+      "expected": "索状影",
+      "actual": "索状影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さこつかじょうみゃく",
+      "expected": "鎖骨下静脈",
+      "actual": "鎖骨下静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さこつかどうみゃく",
+      "expected": "鎖骨下動脈",
+      "actual": "鎖骨下動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さしんじけっせん",
+      "expected": "左心耳血栓",
+      "actual": "左心耳血栓",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さぶとらくしょん",
+      "expected": "サブトラクション",
+      "actual": "サブトラクション",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "さんざいせい",
+      "expected": "散在性",
+      "actual": "散在性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ざこつちょくちょうか",
+      "expected": "坐骨直腸窩",
+      "actual": "坐骨直腸窩",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうきんしゅ",
+      "expected": "子宮筋腫",
+      "actual": "子宮筋腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうけいがん",
+      "expected": "子宮頸癌",
+      "actual": "子宮頸癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうせんきんしょう",
+      "expected": "子宮腺筋症",
+      "actual": "子宮腺筋症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうたいがん",
+      "expected": "子宮体癌",
+      "actual": "子宮体癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうどうみゃくそくせんじゅつ",
+      "expected": "子宮動脈塞栓術",
+      "actual": "子宮動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうないまくがん",
+      "expected": "子宮内膜癌",
+      "actual": "子宮内膜癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうないまくしょう",
+      "expected": "子宮内膜症",
+      "actual": "子宮内膜症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうないまくひこう",
+      "expected": "子宮内膜肥厚",
+      "actual": "子宮内膜肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうないまくぽりーぷ",
+      "expected": "子宮内膜ポリープ",
+      "actual": "子宮内膜ポリープ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうにくしゅ",
+      "expected": "子宮肉腫",
+      "actual": "子宮肉腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しきゅうへいかつきんにくしゅ",
+      "expected": "子宮平滑筋肉腫",
+      "actual": "子宮平滑筋肉腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しけつ",
+      "expected": "止血",
+      "actual": "止血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しけつでばいす",
+      "expected": "止血デバイス",
+      "actual": "止血デバイス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しこつどう",
+      "expected": "篩骨洞",
+      "actual": "篩骨洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ししょうしゅっけつ",
+      "expected": "視床出血",
+      "actual": "視床出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ししんけいえん",
+      "expected": "視神経炎",
+      "actual": "視神経炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ししんけいせきずいえん",
+      "expected": "視神経脊髄炎",
+      "actual": "視神経脊髄炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しじょうだんぞう",
+      "expected": "矢状断像",
+      "actual": "矢状断像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しっかどうみゃく",
+      "expected": "膝窩動脈",
+      "actual": "膝窩動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうかん",
+      "expected": "脂肪肝",
+      "actual": "脂肪肝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうしゅ",
+      "expected": "脂肪腫",
+      "actual": "脂肪腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうしんじゅん",
+      "expected": "脂肪浸潤",
+      "actual": "脂肪浸潤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうにくしゅ",
+      "expected": "脂肪肉腫",
+      "actual": "脂肪肉腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうのうど",
+      "expected": "脂肪濃度",
+      "actual": "脂肪濃度",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうへんせい",
+      "expected": "脂肪変性",
+      "actual": "脂肪変性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しぼうよくせい",
+      "expected": "脂肪抑制",
+      "actual": "脂肪抑制",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゃいだんぞう",
+      "expected": "斜位断像",
+      "actual": "斜位断像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅういしぼうしきのうどじょうしょう",
+      "expected": "周囲脂肪織濃度上昇",
+      "actual": "周囲脂肪織濃度上昇",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅうしゅくせいしんまくえん",
+      "expected": "収縮性心膜炎",
+      "actual": "収縮性心膜炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅうじょうこつこっせつ",
+      "expected": "舟状骨骨折",
+      "actual": "舟状骨骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅうはすうえんこーど",
+      "expected": "周波数エンコード",
+      "actual": "周波数エンコード",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅくしょう",
+      "expected": "縮小",
+      "actual": "縮小",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅすいかん",
+      "expected": "主膵管",
+      "actual": "主膵管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅだい",
+      "expected": "腫大",
+      "actual": "腫大",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅっけつ",
+      "expected": "出血",
+      "actual": "出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅっけつせいこうそく",
+      "expected": "出血性梗塞",
+      "actual": "出血性梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅっけつせいらんそうのうほう",
+      "expected": "出血性卵巣嚢胞",
+      "actual": "出血性卵巣嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅようのうせん",
+      "expected": "腫瘍濃染",
+      "actual": "腫瘍濃染",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅりゅう",
+      "expected": "腫瘤",
+      "actual": "腫瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しゅりゅうえい",
+      "expected": "腫瘤影",
+      "actual": "腫瘤影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうえきせい",
+      "expected": "漿液性",
+      "actual": "漿液性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうえきせいのうほうせんしゅ",
+      "expected": "漿液性嚢胞腺腫",
+      "actual": "漿液性嚢胞腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうかかんかんしつしゅよう",
+      "expected": "消化管間質腫瘍",
+      "actual": "消化管間質腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうかかんせんこう",
+      "expected": "消化管穿孔",
+      "actual": "消化管穿孔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうかかんろう",
+      "expected": "消化管瘻",
+      "actual": "消化管瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうかたいのうほう",
+      "expected": "松果体嚢胞",
+      "actual": "松果体嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうけっせつ",
+      "expected": "小結節",
+      "actual": "小結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうさいぼうがん",
+      "expected": "小細胞癌",
+      "actual": "小細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうたい",
+      "expected": "消退",
+      "actual": "消退",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうのうしゅっけつ",
+      "expected": "小脳出血",
+      "actual": "小脳出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうのうてんと",
+      "expected": "小脳テント",
+      "actual": "小脳テント",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうのうへんとう",
+      "expected": "小脳扁桃",
+      "actual": "小脳扁桃",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうまくかきんしゅ",
+      "expected": "漿膜下筋腫",
+      "actual": "漿膜下筋腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうもう",
+      "expected": "小網",
+      "actual": "小網",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうようかんかくへきひこう",
+      "expected": "小葉間隔壁肥厚",
+      "actual": "小葉間隔壁肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょうようちゅうしんせいりゅうじょうえい",
+      "expected": "小葉中心性粒状影",
+      "actual": "小葉中心性粒状影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょくどうがん",
+      "expected": "食道癌",
+      "actual": "食道癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょくどうじょうみゃくりゅう",
+      "expected": "食道静脈瘤",
+      "actual": "食道静脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しょくどうれっこうへるにあ",
+      "expected": "食道裂孔ヘルニア",
+      "actual": "食道裂孔ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんあみろいどーしす",
+      "expected": "心アミロイドーシス",
+      "actual": "心アミロイドーシス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんきんえん",
+      "expected": "心筋炎",
+      "actual": "心筋炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんきんこうそく",
+      "expected": "心筋梗塞",
+      "actual": "心筋梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんくう",
+      "expected": "真腔",
+      "actual": "真腔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんけいこうしゅ",
+      "expected": "神経膠腫",
+      "actual": "神経膠腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんけいしょうしゅ",
+      "expected": "神経鞘腫",
+      "actual": "神経鞘腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんげんせいのうそくせんしょう",
+      "expected": "心原性脳塞栓症",
+      "actual": "心原性脳塞栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんさるこいどーしす",
+      "expected": "心サルコイドーシス",
+      "actual": "心サルコイドーシス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんしつちゅうかくけっそん",
+      "expected": "心室中隔欠損",
+      "actual": "心室中隔欠損",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんしつりゅう",
+      "expected": "心室瘤",
+      "actual": "心室瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんしゅつ",
+      "expected": "新出",
+      "actual": "新出",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんじゅん",
+      "expected": "浸潤",
+      "actual": "浸潤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんじゅんえい",
+      "expected": "浸潤影",
+      "actual": "浸潤影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんじゅんせいしょうようがん",
+      "expected": "浸潤性小葉癌",
+      "actual": "浸潤性小葉癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんじゅんせいにゅうかんがん",
+      "expected": "浸潤性乳管癌",
+      "actual": "浸潤性乳管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんせいどうみゃくりゅう",
+      "expected": "真性動脈瘤",
+      "actual": "真性動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんでんずどうき",
+      "expected": "心電図同期",
+      "actual": "心電図同期",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんのうえき",
+      "expected": "心嚢液",
+      "actual": "心嚢液",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんぶじょうみゃくけっせんしょう",
+      "expected": "深部静脈血栓症",
+      "actual": "深部静脈血栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんぼうないけっせん",
+      "expected": "心房内血栓",
+      "actual": "心房内血栓",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんまくえん",
+      "expected": "心膜炎",
+      "actual": "心膜炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しんまくのうほう",
+      "expected": "心膜嚢胞",
+      "actual": "心膜嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "しーす",
+      "expected": "シース",
+      "actual": "シース",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じかせんしゅよう",
+      "expected": "耳下腺腫瘍",
+      "actual": "耳下腺腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じかりつ",
+      "expected": "磁化率",
+      "actual": "磁化率",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じかりつきょうちょうがぞう",
+      "expected": "磁化率強調画像",
+      "actual": "磁化率強調画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じこめんえきせいすいえん",
+      "expected": "自己免疫性膵炎",
+      "actual": "自己免疫性膵炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうかくきしゅ",
+      "expected": "縦隔気腫",
+      "actual": "縦隔気腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうかくしゅよう",
+      "expected": "縦隔腫瘍",
+      "actual": "縦隔腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうかくりんぱせつ",
+      "expected": "縦隔リンパ節",
+      "actual": "縦隔リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうじつせいしゅりゅう",
+      "expected": "充実性腫瘤",
+      "actual": "充実性腫瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうじつせいびょうへん",
+      "expected": "充実性病変",
+      "actual": "充実性病変",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうじつせいぶん",
+      "expected": "充実成分",
+      "actual": "充実成分",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうにしちょうけいしつ",
+      "expected": "十二指腸憩室",
+      "actual": "十二指腸憩室",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうにしちょうせんこう",
+      "expected": "十二指腸穿孔",
+      "actual": "十二指腸穿孔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅうふくじんうにょうかん",
+      "expected": "重複腎盂尿管",
+      "actual": "重複腎盂尿管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じゅつごのうよう",
+      "expected": "術後膿瘍",
+      "actual": "術後膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょういしゅ",
+      "expected": "上衣腫",
+      "actual": "上衣腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょういんとうがん",
+      "expected": "上咽頭癌",
+      "actual": "上咽頭癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうがくどう",
+      "expected": "上顎洞",
+      "actual": "上顎洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうしじょうじょうみゃくどう",
+      "expected": "上矢状静脈洞",
+      "actual": "上矢状静脈洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうぜつく",
+      "expected": "上舌区",
+      "actual": "上舌区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうだいじょうみゃくしょうこうぐん",
+      "expected": "上大静脈症候群",
+      "actual": "上大静脈症候群",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうちょうかんまくじょうみゃく",
+      "expected": "上腸間膜静脈",
+      "actual": "上腸間膜静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうちょうかんまくどうみゃく",
+      "expected": "上腸間膜動脈",
+      "actual": "上腸間膜動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうちょうかんまくどうみゃくかいり",
+      "expected": "上腸間膜動脈解離",
+      "actual": "上腸間膜動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうちょうかんまくどうみゃくへいそくしょう",
+      "expected": "上腸間膜動脈閉塞症",
+      "actual": "上腸間膜動脈閉塞症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうみゃくきけい",
+      "expected": "静脈奇形",
+      "actual": "静脈奇形",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうみゃくきょうさく",
+      "expected": "静脈狭窄",
+      "actual": "静脈狭窄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうみゃくさんぷりんぐ",
+      "expected": "静脈サンプリング",
+      "actual": "静脈サンプリング",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうみゃくせき",
+      "expected": "静脈石",
+      "actual": "静脈石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうみゃくそくせんじゅつ",
+      "expected": "静脈塞栓術",
+      "actual": "静脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じょうみゃくへいそく",
+      "expected": "静脈閉塞",
+      "actual": "静脈閉塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じろう",
+      "expected": "痔瘻",
+      "actual": "痔瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんう",
+      "expected": "腎盂",
+      "actual": "腎盂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんうがん",
+      "expected": "腎盂癌",
+      "actual": "腎盂癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんうじんえん",
+      "expected": "腎盂腎炎",
+      "actual": "腎盂腎炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんおんこさいとーま",
+      "expected": "腎オンコサイトーマ",
+      "actual": "腎オンコサイトーマ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんけっかんきんしぼうしゅ",
+      "expected": "腎血管筋脂肪腫",
+      "actual": "腎血管筋脂肪腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんけっせき",
+      "expected": "腎結石",
+      "actual": "腎結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんこうそく",
+      "expected": "腎梗塞",
+      "actual": "腎梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんさいぼうがん",
+      "expected": "腎細胞癌",
+      "actual": "腎細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんしゅういくう",
+      "expected": "腎周囲腔",
+      "actual": "腎周囲腔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんしゅういのうよう",
+      "expected": "腎周囲膿瘍",
+      "actual": "腎周囲膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんじょうみゃくけっせんしょう",
+      "expected": "腎静脈血栓症",
+      "actual": "腎静脈血栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんずいしつ",
+      "expected": "腎髄質",
+      "actual": "腎髄質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんそんしょう",
+      "expected": "腎損傷",
+      "actual": "腎損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんどう",
+      "expected": "腎洞",
+      "actual": "腎洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんどうみゃくきょうさく",
+      "expected": "腎動脈狭窄",
+      "actual": "腎動脈狭窄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんどうみゃくそくせんじゅつ",
+      "expected": "腎動脈塞栓術",
+      "actual": "腎動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんどうみゃくりゅう",
+      "expected": "腎動脈瘤",
+      "actual": "腎動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんのうほう",
+      "expected": "腎嚢胞",
+      "actual": "腎嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんのうよう",
+      "expected": "腎膿瘍",
+      "actual": "腎膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんぱい",
+      "expected": "塵肺",
+      "actual": "腎杯",
+      "matches": false,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんぱい",
+      "expected": "腎杯",
+      "actual": "腎杯",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんひしつ",
+      "expected": "腎皮質",
+      "actual": "腎皮質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんひまくかけっしゅ",
+      "expected": "腎被膜下血腫",
+      "actual": "腎被膜下血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんもんぶ",
+      "expected": "腎門部",
+      "actual": "腎門部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんろう",
+      "expected": "腎瘻",
+      "actual": "腎瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "じんろうぞうせつじゅつ",
+      "expected": "腎瘻造設術",
+      "actual": "腎瘻造設術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいいしゅく",
+      "expected": "膵萎縮",
+      "actual": "膵萎縮",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいかせいのうほう",
+      "expected": "膵仮性嚢胞",
+      "actual": "膵仮性嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいかんかくちょう",
+      "expected": "膵管拡張",
+      "actual": "膵管拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいかんがん",
+      "expected": "膵管癌",
+      "actual": "膵管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいかんないにゅうとうねんえきせいしゅよう",
+      "expected": "膵管内乳頭粘液性腫瘍",
+      "actual": "膵管内乳頭粘液性腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいかんゆごうふぜん",
+      "expected": "膵管癒合不全",
+      "actual": "膵管癒合不全",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいがん",
+      "expected": "膵癌",
+      "actual": "膵癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいこうぶ",
+      "expected": "膵鉤部",
+      "actual": "膵鉤部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいしゅういえきたいちょりゅう",
+      "expected": "膵周囲液体貯留",
+      "actual": "膵周囲液体貯留",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいしんけいないぶんぴしゅよう",
+      "expected": "膵神経内分泌腫瘍",
+      "actual": "膵神経内分泌腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいじゅうじつせいぎにゅうとうじょうしゅよう",
+      "expected": "膵充実性偽乳頭状腫瘍",
+      "actual": "膵充実性偽乳頭状腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいじんしょう",
+      "expected": "水腎症",
+      "actual": "水腎症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいせき",
+      "expected": "膵石",
+      "actual": "膵石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいたいぶ",
+      "expected": "膵体部",
+      "actual": "膵体部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいとうしょう",
+      "expected": "水頭症",
+      "actual": "水頭症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいとうぶ",
+      "expected": "膵頭部",
+      "actual": "膵頭部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいのうほう",
+      "expected": "膵嚢胞",
+      "actual": "膵嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すいびぶ",
+      "expected": "膵尾部",
+      "actual": "膵尾部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すてんとぐらふと",
+      "expected": "ステントグラフト",
+      "actual": "ステントグラフト",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すてんとりゅうちじゅつ",
+      "expected": "ステント留置術",
+      "actual": "ステント留置術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すりがらすいんえい",
+      "expected": "すりガラス陰影",
+      "actual": "すりガラス陰影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "すりがらすえい",
+      "expected": "すりガラス影",
+      "actual": "すりガラス影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ずいがしゅ",
+      "expected": "髄芽腫",
+      "actual": "髄芽腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ずいまくえん",
+      "expected": "髄膜炎",
+      "actual": "髄膜炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ずいまくしゅ",
+      "expected": "髄膜腫",
+      "actual": "髄膜腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいけん",
+      "expected": "生検",
+      "actual": "生検",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいけんしん",
+      "expected": "生検針",
+      "actual": "生検針",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいじゅくのうほうせいきけいしゅ",
+      "expected": "成熟嚢胞性奇形腫",
+      "actual": "成熟嚢胞性奇形腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいじょうあつすいとうしょう",
+      "expected": "正常圧水頭症",
+      "actual": "正常圧水頭症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいそうしゅよう",
+      "expected": "精巣腫瘍",
+      "actual": "精巣腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいそうねんてん",
+      "expected": "精巣捻転",
+      "actual": "精巣捻転",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいちゅうへんい",
+      "expected": "正中偏位",
+      "actual": "正中偏位",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せいのう",
+      "expected": "精嚢",
+      "actual": "精嚢",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきしょくへんせい",
+      "expected": "赤色変性",
+      "actual": "赤色変性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきずいえん",
+      "expected": "脊髄炎",
+      "actual": "脊髄炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきずいくうどうしょう",
+      "expected": "脊髄空洞症",
+      "actual": "脊髄空洞症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきずいしょう",
+      "expected": "脊髄症",
+      "actual": "脊髄症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきちゅうかんきょうさくしょう",
+      "expected": "脊柱管狭窄症",
+      "actual": "脊柱管狭窄症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきついすべりしょう",
+      "expected": "脊椎すべり症",
+      "actual": "脊椎すべり症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきにんけっかん",
+      "expected": "責任血管",
+      "actual": "責任血管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せきめんはい",
+      "expected": "石綿肺",
+      "actual": "石綿肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せっかいか",
+      "expected": "石灰化",
+      "actual": "石灰化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せっかいちんちゃくせいけんえん",
+      "expected": "石灰沈着性腱炎",
+      "actual": "石灰沈着性腱炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せっぱくはれつ",
+      "expected": "切迫破裂",
+      "actual": "切迫破裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんいか",
+      "expected": "線維化",
+      "actual": "線維化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんいきんせいいけいせい",
+      "expected": "線維筋性異形成",
+      "actual": "線維筋性異形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんいせいこついけいせい",
+      "expected": "線維性骨異形成",
+      "actual": "線維性骨異形成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんこつぜんくう",
+      "expected": "仙骨前腔",
+      "actual": "仙骨前腔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんこつふぜんこっせつ",
+      "expected": "仙骨不全骨折",
+      "actual": "仙骨不全骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんし",
+      "expected": "穿刺",
+      "actual": "穿刺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんししん",
+      "expected": "穿刺針",
+      "actual": "穿刺針",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんしぶけっしゅ",
+      "expected": "穿刺部血腫",
+      "actual": "穿刺部血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんじょうえい",
+      "expected": "線状影",
+      "actual": "線状影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんたくてきぞうえい",
+      "expected": "選択的造影",
+      "actual": "選択的造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんたくてきどうみゃくないかるしうむちゅうにゅうしけん",
+      "expected": "選択的動脈内カルシウム注入試験",
+      "actual": "選択的動脈内カルシウム注入試験",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんちょうかんせつ",
+      "expected": "仙腸関節",
+      "actual": "仙腸関節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんちょうかんせつえん",
+      "expected": "仙腸関節炎",
+      "actual": "仙腸関節炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんつうし",
+      "expected": "穿通枝",
+      "actual": "穿通枝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "せんつうせいどうみゃくこうかせいかいよう",
+      "expected": "穿通性動脈硬化性潰瘍",
+      "actual": "穿通性動脈硬化性潰瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜいじゃくせいこっせつ",
+      "expected": "脆弱性骨折",
+      "actual": "脆弱性骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜつく",
+      "expected": "舌区",
+      "actual": "舌区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜらちんすぽんじ",
+      "expected": "ゼラチンスポンジ",
+      "actual": "ゼラチンスポンジ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんこうつうどうみゃく",
+      "expected": "前交通動脈",
+      "actual": "前交通動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんしゅうせい",
+      "expected": "全周性",
+      "actual": "全周性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんじゅうじじんたいそんしょう",
+      "expected": "前十字靱帯損傷",
+      "actual": "前十字靱帯損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんじょうようく",
+      "expected": "前上葉区",
+      "actual": "前上葉区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんじんぼうくう",
+      "expected": "前腎傍腔",
+      "actual": "前腎傍腔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんだいのうどうみゃく",
+      "expected": "前大脳動脈",
+      "actual": "前大脳動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんていく",
+      "expected": "前底区",
+      "actual": "前底区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんていしんけいしょうしゅ",
+      "expected": "前庭神経鞘腫",
+      "actual": "前庭神経鞘腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんりつせんいこういき",
+      "expected": "前立腺移行域",
+      "actual": "前立腺移行域",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんりつせんがん",
+      "expected": "前立腺癌",
+      "actual": "前立腺癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんりつせんのうよう",
+      "expected": "前立腺膿瘍",
+      "actual": "前立腺膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんりつせんひだいしょう",
+      "expected": "前立腺肥大症",
+      "actual": "前立腺肥大症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぜんりつせんへんえんいき",
+      "expected": "前立腺辺縁域",
+      "actual": "前立腺辺縁域",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうかんかん",
+      "expected": "総肝管",
+      "actual": "総肝管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうかんどうみゃく",
+      "expected": "総肝動脈",
+      "actual": "総肝動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうきのうせん",
+      "expected": "早期濃染",
+      "actual": "早期濃染",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうけいどうみゃく",
+      "expected": "総頸動脈",
+      "actual": "総頸動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうたんかん",
+      "expected": "総胆管",
+      "actual": "総胆管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうたんかんけっせき",
+      "expected": "総胆管結石",
+      "actual": "総胆管結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうちょうこつどうみゃく",
+      "expected": "総腸骨動脈",
+      "actual": "総腸骨動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そうちょうこつりんぱせつ",
+      "expected": "総腸骨リンパ節",
+      "actual": "総腸骨リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そくせんしょう",
+      "expected": "塞栓症",
+      "actual": "塞栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そくせんじゅつ",
+      "expected": "塞栓術",
+      "actual": "塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そくせんぶっしつ",
+      "expected": "塞栓物質",
+      "actual": "塞栓物質",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そくせんようこいる",
+      "expected": "塞栓用コイル",
+      "actual": "塞栓用コイル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そくふくけっこうろ",
+      "expected": "側副血行路",
+      "actual": "側副血行路",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そくふくろ",
+      "expected": "側副路",
+      "actual": "側副路",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そけいへるにあ",
+      "expected": "鼠径ヘルニア",
+      "actual": "鼠径ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そけいりんぱせつ",
+      "expected": "鼠径リンパ節",
+      "actual": "鼠径リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "そだいせっかいか",
+      "expected": "粗大石灰化",
+      "actual": "粗大石灰化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうあく",
+      "expected": "増悪",
+      "actual": "増悪",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいこうか",
+      "expected": "造影効果",
+      "actual": "造影効果",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいざい",
+      "expected": "造影剤",
+      "actual": "造影剤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいざいあれるぎー",
+      "expected": "造影剤アレルギー",
+      "actual": "造影剤アレルギー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいざいじんしょう",
+      "expected": "造影剤腎症",
+      "actual": "造影剤腎症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいざいろうしゅつ",
+      "expected": "造影剤漏出",
+      "actual": "造影剤漏出",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいぞうきょうこうか",
+      "expected": "造影増強効果",
+      "actual": "造影増強効果",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいちょうおんぱ",
+      "expected": "造影超音波",
+      "actual": "造影超音波",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうえいふりょう",
+      "expected": "造影不良",
+      "actual": "造影不良",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうききょけつ",
+      "expected": "臓器虚血",
+      "actual": "臓器虚血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうこつせい",
+      "expected": "造骨性",
+      "actual": "造骨性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぞうだい",
+      "expected": "増大",
+      "actual": "増大",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たいじょう",
+      "expected": "帯状",
+      "actual": "帯状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たいもう",
+      "expected": "大網",
+      "actual": "大網",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たいもうこうそく",
+      "expected": "大網梗塞",
+      "actual": "大網梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たかやすどうみゃくえん",
+      "expected": "高安動脈炎",
+      "actual": "高安動脈炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たけいせんしゅ",
+      "expected": "多形腺腫",
+      "actual": "多形腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たけっせつじょう",
+      "expected": "多結節状",
+      "actual": "多結節状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ただんめんさいこうせい",
+      "expected": "多断面再構成",
+      "actual": "多断面再構成",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たはつせい",
+      "expected": "多発性",
+      "actual": "多発性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たはつせいこうかしょう",
+      "expected": "多発性硬化症",
+      "actual": "多発性硬化症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たはつせいこつずいしゅ",
+      "expected": "多発性骨髄腫",
+      "actual": "多発性骨髄腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たぼうせい",
+      "expected": "多房性",
+      "actual": "多房性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんかんえん",
+      "expected": "胆管炎",
+      "actual": "胆管炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんかんかくちょう",
+      "expected": "胆管拡張",
+      "actual": "胆管拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんかんがん",
+      "expected": "胆管癌",
+      "actual": "胆管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんかんけっせき",
+      "expected": "胆管結石",
+      "actual": "胆管結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんかんすてんとりゅうちじゅつ",
+      "expected": "胆管ステント留置術",
+      "actual": "胆管ステント留置術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんじゅうりゅう",
+      "expected": "胆汁瘤",
+      "actual": "胆汁瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんじゅうろう",
+      "expected": "胆汁漏",
+      "actual": "胆汁漏",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんじゅんせいこつのうしゅ",
+      "expected": "単純性骨嚢腫",
+      "actual": "単純性骨嚢腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんせきしょう",
+      "expected": "胆石症",
+      "actual": "胆石症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんでい",
+      "expected": "胆泥",
+      "actual": "胆泥",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんどうしゅっけつ",
+      "expected": "胆道出血",
+      "actual": "胆道出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんどうすてんと",
+      "expected": "胆道ステント",
+      "actual": "胆道ステント",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうえん",
+      "expected": "胆嚢炎",
+      "actual": "胆嚢炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうかん",
+      "expected": "胆嚢管",
+      "actual": "胆嚢管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうがん",
+      "expected": "胆嚢癌",
+      "actual": "胆嚢癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうけいぶ",
+      "expected": "胆嚢頸部",
+      "actual": "胆嚢頸部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうけっせき",
+      "expected": "胆嚢結石",
+      "actual": "胆嚢結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうしゅういのうよう",
+      "expected": "胆嚢周囲膿瘍",
+      "actual": "胆嚢周囲膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうせんきんしゅしょう",
+      "expected": "胆嚢腺筋腫症",
+      "actual": "胆嚢腺筋腫症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうていぶ",
+      "expected": "胆嚢底部",
+      "actual": "胆嚢底部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうどうみゃく",
+      "expected": "胆嚢動脈",
+      "actual": "胆嚢動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうへきひこう",
+      "expected": "胆嚢壁肥厚",
+      "actual": "胆嚢壁肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんのうぽりーぷ",
+      "expected": "胆嚢ポリープ",
+      "actual": "胆嚢ポリープ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんぼうせい",
+      "expected": "単房性",
+      "actual": "単房性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "たんめいさいぼうがたじんさいぼうがん",
+      "expected": "淡明細胞型腎細胞癌",
+      "actual": "淡明細胞型腎細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいたいこっとうえし",
+      "expected": "大腿骨頭壊死",
+      "actual": "大腿骨頭壊死",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいたいこつけいぶこっせつ",
+      "expected": "大腿骨頸部骨折",
+      "actual": "大腿骨頸部骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいたいこつてんしぶこっせつ",
+      "expected": "大腿骨転子部骨折",
+      "actual": "大腿骨転子部骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいたいどうみゃく",
+      "expected": "大腿動脈",
+      "actual": "大腿動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいたいへるにあ",
+      "expected": "大腿ヘルニア",
+      "actual": "大腿ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいちょうがん",
+      "expected": "大腸癌",
+      "actual": "大腸癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいちょうせんこう",
+      "expected": "大腸穿孔",
+      "actual": "大腸穿孔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいどうみゃくかいり",
+      "expected": "大動脈解離",
+      "actual": "大動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいどうみゃくしゅういけっしゅ",
+      "expected": "大動脈周囲血腫",
+      "actual": "大動脈周囲血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいどうみゃくへきないけっしゅ",
+      "expected": "大動脈壁内血腫",
+      "actual": "大動脈壁内血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいどうみゃくりゅう",
+      "expected": "大動脈瘤",
+      "actual": "大動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だいどうみゃくりゅうはれつ",
+      "expected": "大動脈瘤破裂",
+      "actual": "大動脈瘤破裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だこう",
+      "expected": "蛇行",
+      "actual": "蛇行",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "だつずい",
+      "expected": "脱髄",
+      "actual": "脱髄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちえんせいのうせん",
+      "expected": "遅延性濃染",
+      "actual": "遅延性濃染",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちこつけつごう",
+      "expected": "恥骨結合",
+      "actual": "恥骨結合",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちずじょう",
+      "expected": "地図状",
+      "actual": "地図状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうかんきかんしかん",
+      "expected": "中間気管支幹",
+      "actual": "中間気管支幹",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうかんじょうみゃく",
+      "expected": "中肝静脈",
+      "actual": "中肝静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうしんじょうみゃくかてーてる",
+      "expected": "中心静脈カテーテル",
+      "actual": "中心静脈カテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうしんじょうみゃくぽーと",
+      "expected": "中心静脈ポート",
+      "actual": "中心静脈ポート",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうしんじょうみゃくぽーとりゅうちじゅつ",
+      "expected": "中心静脈ポート留置術",
+      "actual": "中心静脈ポート留置術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうすいえん",
+      "expected": "虫垂炎",
+      "actual": "虫垂炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうすいねんえきのうしゅ",
+      "expected": "虫垂粘液嚢腫",
+      "actual": "虫垂粘液嚢腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうすうしんけいけいげんぱつあくせいりんぱしゅ",
+      "expected": "中枢神経系原発悪性リンパ腫",
+      "actual": "中枢神経系原発悪性リンパ腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうすうせいしんけいさいぼうしゅ",
+      "expected": "中枢性神経細胞腫",
+      "actual": "中枢性神経細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちゅうだいのうどうみゃく",
+      "expected": "中大脳動脈",
+      "actual": "中大脳動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうおんぱけんさ",
+      "expected": "超音波検査",
+      "actual": "超音波検査",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんえし",
+      "expected": "腸管壊死",
+      "actual": "腸管壊死",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんきしゅしょう",
+      "expected": "腸管気腫症",
+      "actual": "腸管気腫症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんきょけつ",
+      "expected": "腸管虚血",
+      "actual": "腸管虚血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんへきひこう",
+      "expected": "腸管壁肥厚",
+      "actual": "腸管壁肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんまく",
+      "expected": "腸間膜",
+      "actual": "腸間膜",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんまくしぼうしきえん",
+      "expected": "腸間膜脂肪織炎",
+      "actual": "腸間膜脂肪織炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんまくのうほう",
+      "expected": "腸間膜嚢胞",
+      "actual": "腸間膜嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんまくふしゅ",
+      "expected": "腸間膜浮腫",
+      "actual": "腸間膜浮腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうかんまくりんぱせつえん",
+      "expected": "腸間膜リンパ節炎",
+      "actual": "腸間膜リンパ節炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうけいこつどう",
+      "expected": "蝶形骨洞",
+      "actual": "蝶形骨洞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうこつどうみゃくかいり",
+      "expected": "腸骨動脈解離",
+      "actual": "腸骨動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうこつどうみゃくりゅう",
+      "expected": "腸骨動脈瘤",
+      "actual": "腸骨動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうしんけいしゅよう",
+      "expected": "聴神経腫瘍",
+      "actual": "聴神経腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうじくねんてん",
+      "expected": "腸軸捻転",
+      "actual": "腸軸捻転",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうじゅうせき",
+      "expected": "腸重積",
+      "actual": "腸重積",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうせんたくてきそくせんじゅつ",
+      "expected": "超選択的塞栓術",
+      "actual": "超選択的塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうせんたくてきぞうえい",
+      "expected": "超選択的造影",
+      "actual": "超選択的造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうへいそく",
+      "expected": "腸閉塞",
+      "actual": "腸閉塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうようきん",
+      "expected": "腸腰筋",
+      "actual": "腸腰筋",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょうようきんのうよう",
+      "expected": "腸腰筋膿瘍",
+      "actual": "腸腰筋膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょくちょうかんまく",
+      "expected": "直腸間膜",
+      "actual": "直腸間膜",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょくちょうがん",
+      "expected": "直腸癌",
+      "actual": "直腸癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちょくちょうしゅういのうよう",
+      "expected": "直腸周囲膿瘍",
+      "actual": "直腸周囲膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちんきゅうせいのうこうそく",
+      "expected": "陳旧性脳梗塞",
+      "actual": "陳旧性脳梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ちんきゅうせいのうしゅっけつ",
+      "expected": "陳旧性脳出血",
+      "actual": "陳旧性脳出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついかんかんせつ",
+      "expected": "椎間関節",
+      "actual": "椎間関節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついかんこう",
+      "expected": "椎間孔",
+      "actual": "椎間孔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついかんばんえん",
+      "expected": "椎間板炎",
+      "actual": "椎間板炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついかんばんへるにあ",
+      "expected": "椎間板ヘルニア",
+      "actual": "椎間板ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついきゅうこん",
+      "expected": "椎弓根",
+      "actual": "椎弓根",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついこつどうみゃく",
+      "expected": "椎骨動脈",
+      "actual": "椎骨動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついこつどうみゃくかいり",
+      "expected": "椎骨動脈解離",
+      "actual": "椎骨動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついたい",
+      "expected": "椎体",
+      "actual": "椎体",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ついたいけっかんしゅ",
+      "expected": "椎体血管腫",
+      "actual": "椎体血管腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "つうふうけっせつ",
+      "expected": "痛風結節",
+      "actual": "痛風結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てぃーつーきょうちょうがぞう",
+      "expected": "T2強調画像",
+      "actual": "T2強調画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てぃーわんきょうちょうがぞう",
+      "expected": "T1強調画像",
+      "actual": "T1強調画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ていえこー",
+      "expected": "低エコー",
+      "actual": "低エコー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ていきゅうしゅう",
+      "expected": "低吸収",
+      "actual": "低吸収",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ていしんごう",
+      "expected": "低信号",
+      "actual": "低信号",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ていのうど",
+      "expected": "低濃度",
+      "actual": "低濃度",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ていりゅうせいそう",
+      "expected": "停留精巣",
+      "actual": "停留精巣",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てんいせいかんがん",
+      "expected": "転移性肝癌",
+      "actual": "転移性肝癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てんいせいかんしゅよう",
+      "expected": "転移性肝腫瘍",
+      "actual": "転移性肝腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てんいせいこつしゅよう",
+      "expected": "転移性骨腫瘍",
+      "actual": "転移性骨腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てんいせいのうしゅよう",
+      "expected": "転移性脳腫瘍",
+      "actual": "転移性脳腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "てんいせいはいしゅよう",
+      "expected": "転移性肺腫瘍",
+      "actual": "転移性肺腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ですもいどしゅよう",
+      "expected": "デスモイド腫瘍",
+      "actual": "デスモイド腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とうえこー",
+      "expected": "等エコー",
+      "actual": "等エコー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とうがいいんとうしゅ",
+      "expected": "頭蓋咽頭腫",
+      "actual": "頭蓋咽頭腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とうきゅうしゅう",
+      "expected": "等吸収",
+      "actual": "等吸収",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とうけつりょうほう",
+      "expected": "凍結療法",
+      "actual": "凍結療法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とうこつえんいたんこっせつ",
+      "expected": "橈骨遠位端骨折",
+      "actual": "橈骨遠位端骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とうしんごう",
+      "expected": "等信号",
+      "actual": "等信号",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とくはつせいはいせんいしょう",
+      "expected": "特発性肺線維症",
+      "actual": "特発性肺線維症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "とぜつ",
+      "expected": "途絶",
+      "actual": "途絶",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうじくせいけん",
+      "expected": "同軸生検",
+      "actual": "同軸生検",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうじくほう",
+      "expected": "同軸法",
+      "actual": "同軸法",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうじょうみゃくきけい",
+      "expected": "動静脈奇形",
+      "actual": "動静脈奇形",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうじょうみゃくろう",
+      "expected": "動静脈瘻",
+      "actual": "動静脈瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうみゃくこうか",
+      "expected": "動脈硬化",
+      "actual": "動脈硬化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうみゃくそう",
+      "expected": "動脈相",
+      "actual": "動脈相",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうみゃくそくせんじゅつ",
+      "expected": "動脈塞栓術",
+      "actual": "動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どうみゃくりゅうようこつのうしゅ",
+      "expected": "動脈瘤様骨嚢腫",
+      "actual": "動脈瘤様骨嚢腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どれなーじ",
+      "expected": "ドレナージ",
+      "actual": "ドレナージ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "どれなーじかてーてる",
+      "expected": "ドレナージカテーテル",
+      "actual": "ドレナージカテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないきょうどうみゃく",
+      "expected": "内胸動脈",
+      "actual": "内胸動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないけいじょうみゃく",
+      "expected": "内頸静脈",
+      "actual": "内頸静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないけいどうみゃく",
+      "expected": "内頸動脈",
+      "actual": "内頸動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないそくていく",
+      "expected": "内側底区",
+      "actual": "内側底区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないちょうこつどうみゃく",
+      "expected": "内腸骨動脈",
+      "actual": "内腸骨動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないちょうこつどうみゃくそくせんじゅつ",
+      "expected": "内腸骨動脈塞栓術",
+      "actual": "内腸骨動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないちょうこつどうみゃくりゅう",
+      "expected": "内腸骨動脈瘤",
+      "actual": "内腸骨動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないちょうこつりんぱせつ",
+      "expected": "内腸骨リンパ節",
+      "actual": "内腸骨リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないなんこつしゅ",
+      "expected": "内軟骨腫",
+      "actual": "内軟骨腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないぶふきんいつ",
+      "expected": "内部不均一",
+      "actual": "内部不均一",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないへるにあ",
+      "expected": "内ヘルニア",
+      "actual": "内ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないまくひこう",
+      "expected": "内膜肥厚",
+      "actual": "内膜肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ないまくふらっぷ",
+      "expected": "内膜フラップ",
+      "actual": "内膜フラップ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "なんこつがさいぼうしゅ",
+      "expected": "軟骨芽細胞腫",
+      "actual": "軟骨芽細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "なんこつにくしゅ",
+      "expected": "軟骨肉腫",
+      "actual": "軟骨肉腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "なんぶそしき",
+      "expected": "軟部組織",
+      "actual": "軟部組織",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "なんぶのうど",
+      "expected": "軟部濃度",
+      "actual": "軟部濃度",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうかんかくちょう",
+      "expected": "乳管拡張",
+      "actual": "乳管拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうかんないにゅうとうしゅ",
+      "expected": "乳管内乳頭腫",
+      "actual": "乳管内乳頭腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうがん",
+      "expected": "乳癌",
+      "actual": "乳癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうせんしょう",
+      "expected": "乳腺症",
+      "actual": "乳腺症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうせんせっかいか",
+      "expected": "乳腺石灰化",
+      "actual": "乳腺石灰化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうせんせんいせんしゅ",
+      "expected": "乳腺線維腺腫",
+      "actual": "乳腺線維腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうせんのうほう",
+      "expected": "乳腺嚢胞",
+      "actual": "乳腺嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうとうじょう",
+      "expected": "乳頭状",
+      "actual": "乳頭状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうとうじょうじんさいぼうがん",
+      "expected": "乳頭状腎細胞癌",
+      "actual": "乳頭状腎細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうとうじょうりゅうき",
+      "expected": "乳頭状隆起",
+      "actual": "乳頭状隆起",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうとつほうそう",
+      "expected": "乳突蜂巣",
+      "actual": "乳突蜂巣",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうびきょう",
+      "expected": "乳糜胸",
+      "actual": "乳糜胸",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうびふくすい",
+      "expected": "乳糜腹水",
+      "actual": "乳糜腹水",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅうぼうのうよう",
+      "expected": "乳房膿瘍",
+      "actual": "乳房膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にゅーもしすちすはいえん",
+      "expected": "ニューモシスチス肺炎",
+      "actual": "ニューモシスチス肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうかんがん",
+      "expected": "尿管癌",
+      "actual": "尿管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうかんきょうさく",
+      "expected": "尿管狭窄",
+      "actual": "尿管狭窄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうかんけっせき",
+      "expected": "尿管結石",
+      "actual": "尿管結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうかんすてんと",
+      "expected": "尿管ステント",
+      "actual": "尿管ステント",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうまくかんいざん",
+      "expected": "尿膜管遺残",
+      "actual": "尿膜管遺残",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうりゅう",
+      "expected": "尿瘤",
+      "actual": "尿瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうろう",
+      "expected": "尿漏",
+      "actual": "尿漏",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "にょうろけっせき",
+      "expected": "尿路結石",
+      "actual": "尿路結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ねんえきせい",
+      "expected": "粘液性",
+      "actual": "粘液性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ねんえきせいのうほうしゅよう",
+      "expected": "粘液性嚢胞腫瘍",
+      "actual": "粘液性嚢胞腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ねんえきせん",
+      "expected": "粘液栓",
+      "actual": "粘液栓",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ねんまくかきんしゅ",
+      "expected": "粘膜下筋腫",
+      "actual": "粘膜下筋腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうえん",
+      "expected": "脳炎",
+      "actual": "脳炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうかん",
+      "expected": "脳幹",
+      "actual": "脳幹",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうきょう",
+      "expected": "膿胸",
+      "actual": "膿胸",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうこうかいだい",
+      "expected": "脳溝開大",
+      "actual": "脳溝開大",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうこうそく",
+      "expected": "脳梗塞",
+      "actual": "脳梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうざしょう",
+      "expected": "脳挫傷",
+      "actual": "脳挫傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうしつかくだい",
+      "expected": "脳室拡大",
+      "actual": "脳室拡大",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうしつないしゅっけつ",
+      "expected": "脳室内出血",
+      "actual": "脳室内出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうしゅっけつ",
+      "expected": "脳出血",
+      "actual": "脳出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうじょうみゃくどうけっせんしょう",
+      "expected": "脳静脈洞血栓症",
+      "actual": "脳静脈洞血栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうじんしょう",
+      "expected": "膿腎症",
+      "actual": "膿腎症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうせい",
+      "expected": "膿性",
+      "actual": "膿性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうせん",
+      "expected": "濃染",
+      "actual": "濃染",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうていどうみゃく",
+      "expected": "脳底動脈",
+      "actual": "脳底動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうどうじょうみゃくきけい",
+      "expected": "脳動静脈奇形",
+      "actual": "脳動静脈奇形",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうどうみゃくりゅう",
+      "expected": "脳動脈瘤",
+      "actual": "脳動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうどじょうしょう",
+      "expected": "濃度上昇",
+      "actual": "濃度上昇",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうどていか",
+      "expected": "濃度低下",
+      "actual": "濃度低下",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうのうよう",
+      "expected": "脳膿瘍",
+      "actual": "脳膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうひょうへもじでりんちんちゃくしょう",
+      "expected": "脳表ヘモジデリン沈着症",
+      "actual": "脳表ヘモジデリン沈着症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうふしゅ",
+      "expected": "脳浮腫",
+      "actual": "脳浮腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうへるにあ",
+      "expected": "脳ヘルニア",
+      "actual": "脳ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうほう",
+      "expected": "嚢胞",
+      "actual": "嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうほうせいびょうへん",
+      "expected": "嚢胞性病変",
+      "actual": "嚢胞性病変",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうほうせいぶん",
+      "expected": "嚢胞成分",
+      "actual": "嚢胞成分",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうよう",
+      "expected": "膿瘍",
+      "actual": "膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうようどれなーじ",
+      "expected": "膿瘍ドレナージ",
+      "actual": "膿瘍ドレナージ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうりょう",
+      "expected": "脳梁",
+      "actual": "脳梁",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "のうりょうけっそん",
+      "expected": "脳梁欠損",
+      "actual": "脳梁欠損",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいあすぺるぎるすしょう",
+      "expected": "肺アスペルギルス症",
+      "actual": "肺アスペルギルス症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいえん",
+      "expected": "肺炎",
+      "actual": "肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいかごしゅ",
+      "expected": "肺過誤腫",
+      "actual": "肺過誤腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいかるちのいど",
+      "expected": "肺カルチノイド",
+      "actual": "肺カルチノイド",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいがん",
+      "expected": "肺癌",
+      "actual": "肺癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいきしゅ",
+      "expected": "肺気腫",
+      "actual": "肺気腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいくりぷとこっかすしょう",
+      "expected": "肺クリプトコッカス症",
+      "actual": "肺クリプトコッカス症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいけっかく",
+      "expected": "肺結核",
+      "actual": "肺結核",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいけっせつ",
+      "expected": "肺結節",
+      "actual": "肺結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいけっせんそくせんしょう",
+      "expected": "肺血栓塞栓症",
+      "actual": "肺血栓塞栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいこうそく",
+      "expected": "肺梗塞",
+      "actual": "肺梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいさいぼうしゅ",
+      "expected": "胚細胞腫",
+      "actual": "胚細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいさるこいどーしす",
+      "expected": "肺サルコイドーシス",
+      "actual": "肺サルコイドーシス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいざしょう",
+      "expected": "肺挫傷",
+      "actual": "肺挫傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいしゅ",
+      "expected": "胚腫",
+      "actual": "胚腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいしゅりゅう",
+      "expected": "肺腫瘤",
+      "actual": "肺腫瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいすいしゅ",
+      "expected": "肺水腫",
+      "actual": "肺水腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいせつせいにょうろぞうえい",
+      "expected": "排泄性尿路造影",
+      "actual": "排泄性尿路造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいせんがん",
+      "expected": "肺腺癌",
+      "actual": "肺腺癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいせんく",
+      "expected": "肺尖区",
+      "actual": "肺尖区",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいせんぶきょうまくひこう",
+      "expected": "肺尖部胸膜肥厚",
+      "actual": "肺尖部胸膜肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいそくせんしょう",
+      "expected": "肺塞栓症",
+      "actual": "肺塞栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいだいさいぼうがん",
+      "expected": "肺大細胞癌",
+      "actual": "肺大細胞癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいてんい",
+      "expected": "肺転移",
+      "actual": "肺転移",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいどうじょうみゃくろう",
+      "expected": "肺動静脈瘻",
+      "actual": "肺動静脈瘻",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいどうみゃくこうけつあつしょう",
+      "expected": "肺動脈高血圧症",
+      "actual": "肺動脈高血圧症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいどうみゃくりゅう",
+      "expected": "肺動脈瘤",
+      "actual": "肺動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいのうよう",
+      "expected": "肺膿瘍",
+      "actual": "肺膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいぶんかくしょう",
+      "expected": "肺分画症",
+      "actual": "肺分画症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいほうしゅっけつ",
+      "expected": "肺胞出血",
+      "actual": "肺胞出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいもん",
+      "expected": "肺門",
+      "actual": "肺門",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいもんりんぱせつ",
+      "expected": "肺門リンパ節",
+      "actual": "肺門リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいようかんれつ",
+      "expected": "肺葉間裂",
+      "actual": "肺葉間裂",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はいりんぱみゃくかんきんしゅしょう",
+      "expected": "肺リンパ脈管筋腫症",
+      "actual": "肺リンパ脈管筋腫症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はくしつびょうへん",
+      "expected": "白質病変",
+      "actual": "白質病変",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はくせつがぞう",
+      "expected": "薄切画像",
+      "actual": "薄切画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はくどうあーちふぁくと",
+      "expected": "拍動アーチファクト",
+      "actual": "拍動アーチファクト",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はくりこっせつ",
+      "expected": "剥離骨折",
+      "actual": "剥離骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はりせいけん",
+      "expected": "針生検",
+      "actual": "針生検",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はれつこっせつ",
+      "expected": "破裂骨折",
+      "actual": "破裂骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はんきじょうみゃく",
+      "expected": "半奇静脈",
+      "actual": "半奇静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はんげつばんそんしょう",
+      "expected": "半月板損傷",
+      "actual": "半月板損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はんじょう",
+      "expected": "斑状",
+      "actual": "斑状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "はんのうせいりんぱせつしゅだい",
+      "expected": "反応性リンパ節腫大",
+      "actual": "反応性リンパ節腫大",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばていじん",
+      "expected": "馬蹄腎",
+      "actual": "馬蹄腎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばび",
+      "expected": "馬尾",
+      "actual": "馬尾",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばるーんかくちょう",
+      "expected": "バルーン拡張",
+      "actual": "バルーン拡張",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばるーんかてーてる",
+      "expected": "バルーンカテーテル",
+      "actual": "バルーンカテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばるーんへいそく",
+      "expected": "バルーン閉塞",
+      "actual": "バルーン閉塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばるーんへいそくかぎゃっこうせいけいじょうみゃくてきそくせんじゅつ",
+      "expected": "バルーン閉塞下逆行性経静脈的塞栓術",
+      "actual": "バルーン閉塞下逆行性経静脈的塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ばるーんへいそくしけん",
+      "expected": "バルーン閉塞試験",
+      "actual": "バルーン閉塞試験",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぱるすどぷら",
+      "expected": "パルスドプラ",
+      "actual": "パルスドプラ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぱわーどぷら",
+      "expected": "パワードプラ",
+      "actual": "パワードプラ",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひかきしゅ",
+      "expected": "皮下気腫",
+      "actual": "皮下気腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひかくしゅっけつ",
+      "expected": "被殻出血",
+      "actual": "被殻出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひけっかくせいこうさんきんしょう",
+      "expected": "非結核性抗酸菌症",
+      "actual": "非結核性抗酸菌症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひけっかんしゅ",
+      "expected": "脾血管腫",
+      "actual": "脾血管腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひこう",
+      "expected": "肥厚",
+      "actual": "肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひこうそく",
+      "expected": "脾梗塞",
+      "actual": "脾梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひこつかせいせんいしゅ",
+      "expected": "非骨化性線維腫",
+      "actual": "非骨化性線維腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひしつかこうそく",
+      "expected": "皮質下梗塞",
+      "actual": "皮質下梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひしつけいせいいじょう",
+      "expected": "皮質形成異常",
+      "actual": "皮質形成異常",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひしゅ",
+      "expected": "脾腫",
+      "actual": "脾腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひしょうさいぼうはいがん",
+      "expected": "非小細胞肺癌",
+      "actual": "非小細胞肺癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひしんじゅんせいにゅうかんがん",
+      "expected": "非浸潤性乳管癌",
+      "actual": "非浸潤性乳管癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひじょうみゃく",
+      "expected": "脾静脈",
+      "actual": "脾静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひそんしょう",
+      "expected": "脾損傷",
+      "actual": "脾損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひだいがたしんきんしょう",
+      "expected": "肥大型心筋症",
+      "actual": "肥大型心筋症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひだりかよう",
+      "expected": "左下葉",
+      "actual": "左下葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひだりかんじょうみゃく",
+      "expected": "左肝静脈",
+      "actual": "左肝静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひだりかんどうみゃく",
+      "expected": "左肝動脈",
+      "actual": "左肝動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひだりしゅきかんし",
+      "expected": "左主気管支",
+      "actual": "左主気管支",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひだりじょうよう",
+      "expected": "左上葉",
+      "actual": "左上葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひとくいせいかんしつせいはいえん",
+      "expected": "非特異性間質性肺炎",
+      "actual": "非特異性間質性肺炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひどうみゃくそくせんじゅつ",
+      "expected": "脾動脈塞栓術",
+      "actual": "脾動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひどうみゃくりゅう",
+      "expected": "脾動脈瘤",
+      "actual": "脾動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひのうほう",
+      "expected": "脾嚢胞",
+      "actual": "脾嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひへいそくせいちょうかんまくきょけつ",
+      "expected": "非閉塞性腸間膜虚血",
+      "actual": "非閉塞性腸間膜虚血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひほうかえし",
+      "expected": "被包化壊死",
+      "actual": "被包化壊死",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひまく",
+      "expected": "被膜",
+      "actual": "被膜",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひもんぶ",
+      "expected": "脾門部",
+      "actual": "脾門部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ひろうこっせつ",
+      "expected": "疲労骨折",
+      "actual": "疲労骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びさいせっかいか",
+      "expected": "微細石灰化",
+      "actual": "微細石灰化",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びしょうしゅっけつ",
+      "expected": "微小出血",
+      "actual": "微小出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びじょうよう",
+      "expected": "尾状葉",
+      "actual": "尾状葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びまんせい",
+      "expected": "びまん性",
+      "actual": "びまん性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びまんせいじくさくそんしょう",
+      "expected": "びまん性軸索損傷",
+      "actual": "びまん性軸索損傷",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びょうてきこっせつ",
+      "expected": "病的骨折",
+      "actual": "病的骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "びーむはーどにんぐ",
+      "expected": "ビームハードニング",
+      "actual": "ビームハードニング",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぴっぐてーるかてーてる",
+      "expected": "ピッグテールカテーテル",
+      "actual": "ピッグテールカテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふきんいつ",
+      "expected": "不均一",
+      "actual": "不均一",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくくうどうみゃく",
+      "expected": "腹腔動脈",
+      "actual": "腹腔動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくくうどうみゃくかいり",
+      "expected": "腹腔動脈解離",
+      "actual": "腹腔動脈解離",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくくうないのうよう",
+      "expected": "腹腔内膿瘍",
+      "actual": "腹腔内膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくくうないゆうりがす",
+      "expected": "腹腔内遊離ガス",
+      "actual": "腹腔内遊離ガス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんこつずいしぼうしゅ",
+      "expected": "副腎骨髄脂肪腫",
+      "actual": "副腎骨髄脂肪腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんしゅっけつ",
+      "expected": "副腎出血",
+      "actual": "副腎出血",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんじょうみゃくさんぷりんぐ",
+      "expected": "副腎静脈サンプリング",
+      "actual": "副腎静脈サンプリング",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんせんしゅ",
+      "expected": "副腎腺腫",
+      "actual": "副腎腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんてんい",
+      "expected": "副腎転移",
+      "actual": "副腎転移",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんひしつがん",
+      "expected": "副腎皮質癌",
+      "actual": "副腎皮質癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくじんひしつせんしゅ",
+      "expected": "副腎皮質腺腫",
+      "actual": "副腎皮質腺腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくすい",
+      "expected": "腹水",
+      "actual": "腹水",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくすいかん",
+      "expected": "副膵管",
+      "actual": "副膵管",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくひ",
+      "expected": "副脾",
+      "actual": "副脾",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくびくうえん",
+      "expected": "副鼻腔炎",
+      "actual": "副鼻腔炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくぶだいどうみゃくりゅう",
+      "expected": "腹部大動脈瘤",
+      "actual": "腹部大動脈瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくへきはんこんへるにあ",
+      "expected": "腹壁瘢痕ヘルニア",
+      "actual": "腹壁瘢痕ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくまくえん",
+      "expected": "腹膜炎",
+      "actual": "腹膜炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくまくすいえん",
+      "expected": "腹膜垂炎",
+      "actual": "腹膜垂炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふくまくはしゅ",
+      "expected": "腹膜播種",
+      "actual": "腹膜播種",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふしゅ",
+      "expected": "浮腫",
+      "actual": "浮腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふせいけい",
+      "expected": "不整形",
+      "actual": "不整形",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふぜんこっせつ",
+      "expected": "不全骨折",
+      "actual": "不全骨折",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふぞくきしゅりゅう",
+      "expected": "付属器腫瘤",
+      "actual": "付属器腫瘤",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふんごうし",
+      "expected": "吻合枝",
+      "actual": "吻合枝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ふんごうぶきょうさく",
+      "expected": "吻合部狭窄",
+      "actual": "吻合部狭窄",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶぶんてきひどうみゃくそくせんじゅつ",
+      "expected": "部分的脾動脈塞栓術",
+      "actual": "部分的脾動脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶぶんようせきこうか",
+      "expected": "部分容積効果",
+      "actual": "部分容積効果",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶんかく",
+      "expected": "分隔",
+      "actual": "分隔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶんすいれいこうそく",
+      "expected": "分水嶺梗塞",
+      "actual": "分水嶺梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶんせつせいどうみゃくちゅうまくゆうかい",
+      "expected": "分節性動脈中膜融解",
+      "actual": "分節性動脈中膜融解",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶんよう",
+      "expected": "分葉",
+      "actual": "分葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶんようじょう",
+      "expected": "分葉状",
+      "actual": "分葉状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぶんりすべりしょう",
+      "expected": "分離すべり症",
+      "actual": "分離すべり症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぷろとんみつどきょうちょうがぞう",
+      "expected": "プロトン密度強調画像",
+      "actual": "プロトン密度強調画像",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいこうそう",
+      "expected": "平衡相",
+      "actual": "平衡相",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいさこうへるにあ",
+      "expected": "閉鎖孔ヘルニア",
+      "actual": "閉鎖孔ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいさりんぱせつ",
+      "expected": "閉鎖リンパ節",
+      "actual": "閉鎖リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいそく",
+      "expected": "閉塞",
+      "actual": "閉塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいそくせいどうみゃくこうかしょう",
+      "expected": "閉塞性動脈硬化症",
+      "actual": "閉塞性動脈硬化症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいそくせいむきはい",
+      "expected": "閉塞性無気肺",
+      "actual": "閉塞性無気肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へいそくようばるーん",
+      "expected": "閉塞用バルーン",
+      "actual": "閉塞用バルーン",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へきざいけっせつ",
+      "expected": "壁在結節",
+      "actual": "壁在結節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へきざいけっせん",
+      "expected": "壁在血栓",
+      "actual": "壁在血栓",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へきひこう",
+      "expected": "壁肥厚",
+      "actual": "壁肥厚",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんえんせい",
+      "expected": "辺縁整",
+      "actual": "辺縁整",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんえんふせい",
+      "expected": "辺縁不整",
+      "actual": "辺縁不整",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんえんへいかつ",
+      "expected": "辺縁平滑",
+      "actual": "辺縁平滑",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんけいせいかんせつしょう",
+      "expected": "変形性関節症",
+      "actual": "変形性関節症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんざい",
+      "expected": "偏在",
+      "actual": "偏在",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんしんせい",
+      "expected": "偏心性",
+      "actual": "偏心性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんとうしゅういのうよう",
+      "expected": "扁桃周囲膿瘍",
+      "actual": "扁桃周囲膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんとうへるにあ",
+      "expected": "扁桃ヘルニア",
+      "actual": "扁桃ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "へんぺいじょうひがん",
+      "expected": "扁平上皮癌",
+      "actual": "扁平上皮癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ほうかしきえん",
+      "expected": "蜂窩織炎",
+      "actual": "蜂窩織炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ほうごうふぜん",
+      "expected": "縫合不全",
+      "actual": "縫合不全",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ほうしゃせんはいぞうえん",
+      "expected": "放射線肺臓炎",
+      "actual": "放射線肺臓炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ほうそうはい",
+      "expected": "蜂巣肺",
+      "actual": "蜂巣肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうこうがん",
+      "expected": "膀胱癌",
+      "actual": "膀胱癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうこうけいしつ",
+      "expected": "膀胱憩室",
+      "actual": "膀胱憩室",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうこうけいぶ",
+      "expected": "膀胱頸部",
+      "actual": "膀胱頸部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうこうけっせき",
+      "expected": "膀胱結石",
+      "actual": "膀胱結石",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうこうさんかくぶ",
+      "expected": "膀胱三角部",
+      "actual": "膀胱三角部",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうしょくどうへるにあ",
+      "expected": "傍食道ヘルニア",
+      "actual": "傍食道ヘルニア",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうしんけいせつしゅ",
+      "expected": "傍神経節腫",
+      "actual": "傍神経節腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ぼうだいどうみゃくりんぱせつ",
+      "expected": "傍大動脈リンパ節",
+      "actual": "傍大動脈リンパ節",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まいくろかてーてる",
+      "expected": "マイクロカテーテル",
+      "actual": "マイクロカテーテル",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まいくろがいどわいやー",
+      "expected": "マイクロガイドワイヤー",
+      "actual": "マイクロガイドワイヤー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まっしょうどうみゃくしっかん",
+      "expected": "末梢動脈疾患",
+      "actual": "末梢動脈疾患",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まひせいいれうす",
+      "expected": "麻痺性イレウス",
+      "actual": "麻痺性イレウス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まんせいけっせんそくせんせいはいこうけつあつしょう",
+      "expected": "慢性血栓塞栓性肺高血圧症",
+      "actual": "慢性血栓塞栓性肺高血圧症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まんせいこうまくかけっしゅ",
+      "expected": "慢性硬膜下血腫",
+      "actual": "慢性硬膜下血腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "まんせいすいえん",
+      "expected": "慢性膵炎",
+      "actual": "慢性膵炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みかけのかくさんけいすう",
+      "expected": "見かけの拡散係数",
+      "actual": "見かけの拡散係数",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みぎかよう",
+      "expected": "右下葉",
+      "actual": "右下葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みぎかんじょうみゃく",
+      "expected": "右肝静脈",
+      "actual": "右肝静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みぎかんどうみゃく",
+      "expected": "右肝動脈",
+      "actual": "右肝動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みぎしゅきかんし",
+      "expected": "右主気管支",
+      "actual": "右主気管支",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みぎじょうよう",
+      "expected": "右上葉",
+      "actual": "右上葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "みぎちゅうよう",
+      "expected": "右中葉",
+      "actual": "右中葉",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "むえこー",
+      "expected": "無エコー",
+      "actual": "無エコー",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "むきはい",
+      "expected": "無気肺",
+      "actual": "無気肺",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もうじょうえい",
+      "expected": "網状影",
+      "actual": "網状影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もうようさいぼうせいせいさいぼうしゅ",
+      "expected": "毛様細胞性星細胞腫",
+      "actual": "毛様細胞性星細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もざいくじょうきゅうしゅうち",
+      "expected": "モザイク状吸収値",
+      "actual": "モザイク状吸収値",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃく",
+      "expected": "門脈",
+      "actual": "門脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくあつこうしんしょう",
+      "expected": "門脈圧亢進症",
+      "actual": "門脈圧亢進症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくうし",
+      "expected": "門脈右枝",
+      "actual": "門脈右枝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくがす",
+      "expected": "門脈ガス",
+      "actual": "門脈ガス",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくけっせんしょう",
+      "expected": "門脈血栓症",
+      "actual": "門脈血栓症",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくさし",
+      "expected": "門脈左枝",
+      "actual": "門脈左枝",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくそう",
+      "expected": "門脈相",
+      "actual": "門脈相",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくそくせんじゅつ",
+      "expected": "門脈塞栓術",
+      "actual": "門脈塞栓術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もんみゃくほんかん",
+      "expected": "門脈本幹",
+      "actual": "門脈本幹",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "もーしょんあーちふぁくと",
+      "expected": "モーションアーチファクト",
+      "actual": "モーションアーチファクト",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ゆちゃく",
+      "expected": "癒着",
+      "actual": "癒着",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ようこつせい",
+      "expected": "溶骨性",
+      "actual": "溶骨性",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ようじょうしゅよう",
+      "expected": "葉状腫瘍",
+      "actual": "葉状腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ようせきびょうが",
+      "expected": "容積描画",
+      "actual": "容積描画",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らくなこうそく",
+      "expected": "ラクナ梗塞",
+      "actual": "ラクナ梗塞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らじおはしょうしゃくじゅつ",
+      "expected": "ラジオ波焼灼術",
+      "actual": "ラジオ波焼灼術",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らとけのうほう",
+      "expected": "ラトケ嚢胞",
+      "actual": "ラトケ嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんかんらんそうのうよう",
+      "expected": "卵管卵巣膿瘍",
+      "actual": "卵管卵巣膿瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんかんりゅうすいしゅ",
+      "expected": "卵管留水腫",
+      "actual": "卵管留水腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんかんりゅうのうしゅ",
+      "expected": "卵管留膿腫",
+      "actual": "卵管留膿腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうがん",
+      "expected": "卵巣癌",
+      "actual": "卵巣癌",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうきょうかいあくせいしゅよう",
+      "expected": "卵巣境界悪性腫瘍",
+      "actual": "卵巣境界悪性腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうきょうまくさいぼうしゅ",
+      "expected": "卵巣莢膜細胞腫",
+      "actual": "卵巣莢膜細胞腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうけいねんてん",
+      "expected": "卵巣茎捻転",
+      "actual": "卵巣茎捻転",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうしきゅうないまくしょうせいのうほう",
+      "expected": "卵巣子宮内膜症性嚢胞",
+      "actual": "卵巣子宮内膜症性嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうしゅよう",
+      "expected": "卵巣腫瘍",
+      "actual": "卵巣腫瘍",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうせんいしゅ",
+      "expected": "卵巣線維腫",
+      "actual": "卵巣線維腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんそうのうしゅ",
+      "expected": "卵巣嚢腫",
+      "actual": "卵巣嚢腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "らんぽうのうほう",
+      "expected": "卵胞嚢胞",
+      "actual": "卵胞嚢胞",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りだんせいこつなんこつえん",
+      "expected": "離断性骨軟骨炎",
+      "actual": "離断性骨軟骨炎",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りゅうしゅつじょうみゃく",
+      "expected": "流出静脈",
+      "actual": "流出静脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りゅうしゅつろ",
+      "expected": "流出路",
+      "actual": "流出路",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りゅうじょうえい",
+      "expected": "粒状影",
+      "actual": "粒状影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りゅうにゅうどうみゃく",
+      "expected": "流入動脈",
+      "actual": "流入動脈",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りゅうにゅうろ",
+      "expected": "流入路",
+      "actual": "流入路",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りんじょう",
+      "expected": "輪状",
+      "actual": "輪状",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りんぱかんきけい",
+      "expected": "リンパ管奇形",
+      "actual": "リンパ管奇形",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りんぱかんぞうえい",
+      "expected": "リンパ管造影",
+      "actual": "リンパ管造影",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りんぱせつしゅだい",
+      "expected": "リンパ節腫大",
+      "actual": "リンパ節腫大",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "りんぱせつてんい",
+      "expected": "リンパ節転移",
+      "actual": "リンパ節転移",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "るいこつこつしゅ",
+      "expected": "類骨骨腫",
+      "actual": "類骨骨腫",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ろうこう",
+      "expected": "瘻孔",
+      "actual": "瘻孔",
+      "matches": true,
+      "candidate_found": true
+    },
+    {
+      "reading": "ろっかんどうみゃく",
+      "expected": "肋間動脈",
+      "actual": "肋間動脈",
+      "matches": true,
+      "candidate_found": true
+    }
+  ],
+  "initial_unadjusted": {
+    "fresh28": {
+      "matches": 26,
+      "total": 28
+    },
+    "final12": {
+      "matches": 11,
+      "total": 12
+    }
+  }
+}

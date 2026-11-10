@@ -1,0 +1,33 @@
+原典
+https://github.com/c-colloid/DMiME
+https://github.com/c-colloid/DMiME/releases/tag/v1.1
+原典DMiME-1.1.txtのSHA256:
+b6ad4df98e6b64a3c6634924d237daa283136b5dd3fc4a5b9f1e7c5d2b6da6ca
+
+基本1000語のうち493語を先に選定し、残りの507語は分野別に明示的に選定して読みを指定。
+原典に読みと表記の組が存在するかを機械照合し、由来を記録。
+以下の一次資料は一部の表記・読みの点検に使用。全件の外部照合ではない。
+
+日本消化器内視鏡学会 消化器内視鏡用語集
+副膵管（ふくすいかん）、主膵管、肝門部などの部分照合。
+https://www.jges.net/content/glossary/glossary-search
+
+日本消化器がん検診学会 消化器がん検診用語集第4版（2023）
+肝鎌状間膜（かんかまじょうかんまく）の読みの照合。
+https://www.jsgcs.or.jp/files/uploads/glossary_ja2307.pdf
+
+日本膵臓学会 膵臓の位置・機能
+膵鉤部（すいこうぶ）の表記と読みの点検。
+https://www.suizou.org/citizen/qa/qa01-1.htm
+
+日本神経病理学会 神経病理学用語集
+中枢性神経細胞腫（ちゅうすうせいしんけいさいぼうしゅ）の照合。
+https://www.jsnp.jp/yougo/search/
+
+国立がん研究センター研究所
+淡明細胞型腎細胞癌の表記の点検。
+https://www.ncc.go.jp/jp/ri/division/molecular_oncology/project/150/index.html
+
+既知の辞書ツールの大規模辞書メモリ消費報告
+https://github.com/google/mozc/issues/1545
+この報告は、本1000語版の動作検証ではない。

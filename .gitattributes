@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.jpg binary
+*.zip binary
+provenance/DMiME-original-readme.txt -text

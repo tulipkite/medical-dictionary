@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+build/
+dist/
+.private/
+backups/
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.key
+.env
+.env.*
